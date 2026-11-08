@@ -1,26 +1,39 @@
 defaults:
-  - data: mathvision
-  - llm: qwen2vl
-  - prompt_method: mctsv8
-  - ext_llm: qwen25
+  - data: mathvista # mathvision mathvista charxiv custom_mathvista custom_charxiv custom_mathvision
+  - prompt_method: mctsv8 # qa cot mctsv8 mctsv8v3 directQ our1 our2 our2v2 our2v3 our2v5
+  - llm: qwen25vl_7b # qwen2vl qwen25vl_7b qwen3vl
+  - ext_llm: qwen25 # qwen2 qwen25 qwen3 llama3 llama3.1 mistral
   - _self_
 
+mode: generate # generate  or  extract  or  scoring
 
-# generate  or  extract  or  scoring
-mode: generate
+desc: agent框架 # baseline ours1 ost-baseline custom_mathvista_ost ours2.4 ours3.mathvista.all
+# p3pro_diverse_KV_True_清空prefix_cache
+# mctsv8.charxiv.ALL.p3pro.ALL_0-1000
+# mctsv8.charxiv.ALL.deduplicate_multiple=3.ALL_0-500
+# mathvista：MWP FQA VQA TQA GPS
+# charxiv: STA QB QF EC PHY EESS MATH CS
+# embedding_model_path: /home/jncsnlp4/SSD2/model/multilingual-e5-large-instruct # 嵌入模型的路径
+desc_detail: ""
+embedding_model_path: none
+
+reward_method: self_consistency  # self_consistency or none
+
 worker_num: 30  # 并发调用的worker数量
 
 save_steps: 1
 
 extract_method: ans_and_score  # yes_or_no  or  ans_and_score
 
-extract_field: max_vote_terminal  # max_mean_terminal  or  max_terminal  or max_vote_terminal
+extract_field: max_vote_terminal  # best_answer max_mean_terminal  or  max_terminal  or max_vote_terminal
+
+output_root: /home/jncsnlp4/SSD2/ZJJ/VReST/newoutput
 
 # hydra的配置
 hydra:
   run:
     # dir: "./outputs/data=${data.name}/llm=${llm.name}/${now:%Y-%m-%d}_${now:%H-%M-%S}"
-    dir: "./outputs/data=${data.name}/llm=${llm.name}/prompt_method=${prompt_method.name}"
+    dir: "${output_root}/desc=${desc}/data=${data.name}/llm=${llm.name}/prompt_method=${prompt_method.name}"
   job:
     env_set:
       TOKENIZERS_PARALLELISM: "true"

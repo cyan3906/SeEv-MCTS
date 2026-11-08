@@ -3,4 +3,4 @@ path : data/MATH-V
 data_dir: data/MATH-V/data
 image_dir: data/MATH-V
 input_file: testmini.jsonl
-score_label: llm_score # rule_score
+score_label: llm_score # rule_score,llm_score

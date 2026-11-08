@@ -1,0 +1,59 @@
+### Instruction:
+The movie critic liked to count the number of actors in each movie he saw. How many movies had at least 40 actors? (Unit: movies)
+
+### Prethink:
+This is a stem-and-leaf plot showing data for "the number of actors per movie.The "Stem" (values 3–9) represents the tens digit, while the "Leaf" represents the ones digit.
+
+### Response:
+Let's think step by step.
+Step 1: Determine the threshold for "at least 40 actors" — we need to count data points where the number of actors is 40 or more.
+Step 2: Link the threshold to the stem-and-leaf plot: since the stem is the tens digit, values ≥ 40 correspond to stems 4 to 9 (stem 3 corresponds to 30–39, which are less than 40).
+Step 3: Count the leaves (individual movie data) for each relevant stem:Stem 4: 1 leaf (represents 45 actors)Stem 5: 1 leaf (value 58)Stem 6: 5 leaves (values 61, 62, 64, 68, 69)Stem 7: 2 leaves (values 70, 78)Stem 8: 2 leaves (values 84, 86)Stem 9: 1 leaf (value 90)
+Step 4: Calculate the total number of such movies by adding the leaves: 1 + 1 + 5 + 2 + 2 + 1 = 12.
+Step 5: The answer is 12.
+
+### Instruction:
+Calculate the area of this parallelogram
+
+### Prethink:
+This is a parallelogram with a base of 12 cm, a side length of 20 cm, and an included angle of 30° between the base and the side. To find its area, we first need to calculate the height (perpendicular to the base) using the side length and the angle, then use the formula "area = base × height".
+
+### Response:
+Let's think step by step.
+Step 1: Determine the height of the parallelogram. The height is the perpendicular distance corresponding to the base (12 cm), which can be found using the side length (20 cm) and the sine of the 30° angle:height = 20 * sin30° = 10cm
+Step 2: Apply the parallelogram area formula: area = base × height = 12 * 10 = 120
+Step 3: The answer is 120 square centimeters.
+
+### Instruction:
+How many algorithms have accuracy lower than 3 in at least one dataset?
+
+### Prethink:
+This is a bar chart showing the accuracy of different algorithms (trace, bark, etc.) across two datasets ("pickup" and "outer"). We need to count how many algorithms have an accuracy value < 3 in at least one of the two datasets.
+
+### Response:
+Let's think step by step.
+Step 1: Define the threshold — we need to check if an algorithm has accuracy < 3 in either the "pickup" (blue bar) or "outer" (orange bar) dataset.
+Step 2: Check each algorithm's accuracy for both datasets:
+trace: pickup ≈ 5, outer ≈ 9 → both ≥ 3
+bark: pickup ≈ 3, outer = 8 → both ≥ 3
+veto: pickup = 3, outer = 3 → both ≥ 3
+python: pickup = 2, outer ≈ 3 → pickup < 3
+rope: pickup ≈ 5, outer = 7 → both ≥ 3
+thief: pickup ≈ 5, outer = 7 → both ≥ 3
+slip: pickup ≈ 7, outer = 6 → both ≥ 3
+Step 3: Count the algorithms that meet the condition: only "python".
+Step 4: The answer is 1.
+
+### Instruction:
+As shown in the figure, \u2299O is the circumscribed circle of \u25b3ABC. Connect OB and OC, if the radius of \u2299O is 2.0, \u2220BAC = 60.0, then the length of BC is ().
+
+### Prethink:
+This is a circumscribed circle (circumcircle) problem for triangle ABC, where O is the circumcenter, \(OB = OC = 2.0\) (radius), and \(\angle BAC = 60.0^\circ\). To find the length of BC, we first use the circumferential angle theorem to get the central angle corresponding to BC, then apply the law of cosines (or properties of equilateral triangles) in \(\triangle OBC\).
+
+### Response:
+Let's think step by step.
+Step 1: Use the circumferential angle theorem: The central angle corresponding to an arc is twice the circumferential angle.Since \(\angle BAC = 60.0^\circ\) (circumferential angle for arc BC), the central angle \(\angle BOC = 2 \times 60.0^\circ = 120.0^\circ\).
+Step 2: Analyze \(\triangle OBC\): \(OB = OC = 2.0\) (radii), so \(\triangle OBC\) is isosceles with \(OB = OC = 2.0\) and \(\angle BOC = 120.0^\circ\).
+Step 3: Calculate BC using the law of cosines:\(BC^2 = OB^2 + OC^2 - 2 \times OB \times OC \times \cos\angle BOC\),\(BC^2 = 2^2 + 2^2 - 2 \times 2 \times 2 \times \cos120^\circ\),Since \(\cos120^\circ = -\frac{1}{2}\):\(BC^2 = 4 + 4 - 8 \times \left(-\frac{1}{2}\right) = 8 + 4 = 12\),Thus, \(BC = \sqrt{12} = 2\sqrt{3} \approx 3.46\)
+Step 4: The answer is \(2\sqrt{3}\) (or approximately 3.46).
+

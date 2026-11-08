@@ -1,0 +1,26 @@
+name: our2v3  # 没有使用json模式，让模型尽可能生成json模型，然后使用规则方法提取
+
+file_introduction: "节点类型为子问题分解和步步思考 用大模型去给ost的得分 加入对答案的判断 双向验证"
+
+mcts_rollouts: 10 # 10 14
+
+ost_step_go: True # True False
+ost_step_num: 8
+
+answer_verify: 2 # 0->啥也没用 1->单向验证 2->双向验证
+direct_reward_weight: 0.3
+double_reward_weight: 0.7
+
+fewshot_ost_config: "/home/jncsnlp4/SSD2/ZJJ/VReST/prompt_methods/ours1/fewshot_ost_config.json"
+
+fewshot_ost_prompt : "/home/jncsnlp4/SSD2/ZJJ/VReST/prompt_methods/ours1/fewshot_ost_prompt.txt"
+
+fewshot_cot_config: "/home/jncsnlp4/SSD2/ZJJ/VReST/prompt_methods/ours1/fewshot_cot_config.json"
+
+fewshot_cot_prompt : "/home/jncsnlp4/SSD2/ZJJ/VReST/prompt_methods/ours1/fewshot_cot_prompt.txt"
+
+data_id : -1
+
+attempt_num: 3
+return_num: 10 # 置一致性投票的数量
+tree_width: 5

@@ -1,5 +1,7 @@
 name: mathvista
 path : data/MathVista
 data_dir: data/MathVista/data
+image_dir: data/MathVista/data/images/testmini/ALL
 input_file: testmini.json
-score_label: llm_score
+score_label: llm_score # 规则打分 llm_score
+

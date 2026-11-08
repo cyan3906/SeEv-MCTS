@@ -1,0 +1,34 @@
+name: mctsv8_vpw
+
+is_kv_cache: True
+
+is_p3: False
+is_p3pro: False
+use_p3pro_for_low_answer: False
+p3pro_question_threshold: 0.8
+p3pro_answer_threshold: 0.8
+
+prune_low_reward_nodes: False
+prune_reward_threshold: 0.8
+
+is_deduplicate: False
+is_deduplicatev2: False
+deduplicate_multiple: 7
+
+shallow_progress_threshold: 0.375
+deep_progress_threshold: 0.75
+reserve_activation_threshold: 0.8
+normal_tree_width: 5
+reserve_tree_width: 3
+deep_tree_width: 3
+
+attempt_num: 3
+decompose_question_num: 8
+return_num: 10
+tree_width: 5
+reward_prompt_batch_size: 32
+mcts_rollouts: 8
+is_rephrasing_question: False
+
+data_id: -1
+file_introduction: "MCTSv8 with virtual progressive widening (8/5/3)"

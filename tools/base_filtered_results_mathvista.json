@@ -1,0 +1,178 @@
+[
+  {
+    "id": "4",
+    "response": "Failed to generate response!",
+    "choices": null,
+    "ground_answer": "4",
+    "qwen2_extracted_answer": "4",
+    "qwen2_llm_score": true,
+    "qwen25_extracted_answer": "4",
+    "qwen25_llm_score": true,
+    "qwen3_nothink_extracted_answer": "4",
+    "qwen3_nothink_llm_score": true,
+    "qwen3_think_extracted_answer": "Failed to generate response!",
+    "qwen3_think_llm_score": false
+  },
+  {
+    "id": "68",
+    "response": "The answer is C. The final answer is C.",
+    "choices": [
+      "2cm",
+      "4cm",
+      "6cm",
+      "8cm"
+    ],
+    "ground_answer": "4cm",
+    "qwen2_extracted_answer": "4cm",
+    "qwen2_llm_score": true,
+    "qwen25_extracted_answer": "4cm",
+    "qwen25_llm_score": true,
+    "qwen3_nothink_extracted_answer": "4cm",
+    "qwen3_nothink_llm_score": true,
+    "qwen3_think_extracted_answer": "C",
+    "qwen3_think_llm_score": false
+  },
+  {
+    "id": "419",
+    "response": "The time is quarter past nine. The answer is E.",
+    "choices": [
+      "half",
+      "quarter",
+      "o'clock",
+      "quarter to",
+      "quarter past"
+    ],
+    "ground_answer": "quarter",
+    "qwen2_extracted_answer": "quarter",
+    "qwen2_llm_score": true,
+    "qwen25_extracted_answer": "quarter",
+    "qwen25_llm_score": true,
+    "qwen3_nothink_extracted_answer": "quarter",
+    "qwen3_nothink_llm_score": true,
+    "qwen3_think_extracted_answer": "quarter past nine",
+    "qwen3_think_llm_score": false
+  },
+  {
+    "id": "575",
+    "response": "$z = PT + QT + TR = (3y - 1) + (2x) + 8 = 3y + 2x + 7$. The value of $z$ is $3y + 2x + 7$. The answer is D.",
+    "choices": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "ground_answer": "3",
+    "qwen2_extracted_answer": "3",
+    "qwen2_llm_score": true,
+    "qwen25_extracted_answer": "3",
+    "qwen25_llm_score": true,
+    "qwen3_nothink_extracted_answer": "3",
+    "qwen3_nothink_llm_score": true,
+    "qwen3_think_extracted_answer": "3y + 2x + 7",
+    "qwen3_think_llm_score": false
+  },
+  {
+    "id": "598",
+    "response": "The iiki has the most curved beak. The answer is A.",
+    "choices": [
+      "iiki",
+      "swallow-tanager",
+      "cliff swallow",
+      "hawfinch"
+    ],
+    "ground_answer": "iiki",
+    "qwen2_extracted_answer": "iiki",
+    "qwen2_llm_score": true,
+    "qwen25_extracted_answer": "A",
+    "qwen25_llm_score": true,
+    "qwen3_nothink_extracted_answer": "iiki",
+    "qwen3_nothink_llm_score": true,
+    "qwen3_think_extracted_answer": "A",
+    "qwen3_think_llm_score": false
+  },
+  {
+    "id": "663",
+    "response": "It is quarter past six. The final answer is (E).",
+    "choices": [
+      "half",
+      "quarter",
+      "o'clock",
+      "quarter to",
+      "quarter past"
+    ],
+    "ground_answer": "quarter",
+    "qwen2_extracted_answer": "quarter",
+    "qwen2_llm_score": true,
+    "qwen25_extracted_answer": "quarter past six",
+    "qwen25_llm_score": true,
+    "qwen3_nothink_extracted_answer": "quarter",
+    "qwen3_nothink_llm_score": true,
+    "qwen3_think_extracted_answer": "quarter past",
+    "qwen3_think_llm_score": false
+  },
+  {
+    "id": "699",
+    "response": "Failed to generate response!",
+    "choices": null,
+    "ground_answer": "0",
+    "qwen2_extracted_answer": "0",
+    "qwen2_llm_score": true,
+    "qwen25_extracted_answer": "0",
+    "qwen25_llm_score": true,
+    "qwen3_nothink_extracted_answer": "0",
+    "qwen3_nothink_llm_score": true,
+    "qwen3_think_extracted_answer": "Failed to generate response!",
+    "qwen3_think_llm_score": false
+  },
+  {
+    "id": "796",
+    "response": "Failed to generate response!",
+    "choices": null,
+    "ground_answer": "3",
+    "qwen2_extracted_answer": "3",
+    "qwen2_llm_score": true,
+    "qwen25_extracted_answer": "3",
+    "qwen25_llm_score": true,
+    "qwen3_nothink_extracted_answer": "3",
+    "qwen3_nothink_llm_score": true,
+    "qwen3_think_extracted_answer": "Failed to generate response!",
+    "qwen3_think_llm_score": false
+  },
+  {
+    "id": "866",
+    "response": "The correct option letter is C. The answer is C.",
+    "choices": [
+      "45",
+      "60",
+      "120",
+      "135"
+    ],
+    "ground_answer": "135",
+    "qwen2_extracted_answer": "135",
+    "qwen2_llm_score": true,
+    "qwen25_extracted_answer": "C",
+    "qwen25_llm_score": true,
+    "qwen3_nothink_extracted_answer": "135",
+    "qwen3_nothink_llm_score": true,
+    "qwen3_think_extracted_answer": "C",
+    "qwen3_think_llm_score": false
+  },
+  {
+    "id": "991",
+    "response": "Functions p: y = x^4, q: y = 1/x, and r: y = 1/x^2 have no zeros. The answer is functions p: y = x^4, q: y = 1/x, and r: y = 1/x^2.",
+    "choices": [
+      "green and red",
+      "blue and orange",
+      "purple and grey"
+    ],
+    "ground_answer": "purple and grey",
+    "qwen2_extracted_answer": "purple and grey",
+    "qwen2_llm_score": true,
+    "qwen25_extracted_answer": "purple and grey",
+    "qwen25_llm_score": true,
+    "qwen3_nothink_extracted_answer": "purple and grey",
+    "qwen3_nothink_llm_score": true,
+    "qwen3_think_extracted_answer": "purple and grey",
+    "qwen3_think_llm_score": false
+  }
+]

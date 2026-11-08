@@ -1,0 +1,12 @@
+image_dir: /home/jncsnlp4/SSD2/ZJJ/VReST/data/MATH-V/images
+out_dir: ""
+score_path: ""
+pkl_dir: /home/jncsnlp4/SSD2/ZJJ/VReST/outputs/desc=baseline/data=mathvision/llm=Qwen3-VL-8B-Instruct/prompt_method=mctsv8/tree_results
+yaml_path: /home/jncsnlp4/SSD2/ZJJ/VReST/configs/custom.yaml
+
+
+
+
+
+
+

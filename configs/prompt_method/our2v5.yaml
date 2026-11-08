@@ -1,0 +1,24 @@
+name: our2v5  # 没有使用json模式，让模型尽可能生成json模型，然后使用规则方法提取
+
+file_introduction: "节点类型为子问题分解和步步思考 用大模型去给ost的得分 加入对答案的判断 分类进行PK ansewr_tree 双向验证"
+
+mcts_rollouts: 10 # 10 14 8
+
+is_rephrasing_question: False # True False
+
+ost_step_go: True # True False
+ost_step_num: 8
+
+data_id : -1 # 问题的id
+
+attempt_num: 3
+return_num: 10 # 置一致性投票的数量
+tree_width: 5
+
+fewshot_ost_config: "/home/jncsnlp4/SSD2/ZJJ/VReST/prompt_methods/ours1/fewshot_ost_config.json"
+
+fewshot_ost_prompt : "/home/jncsnlp4/SSD2/ZJJ/VReST/prompt_methods/ours1/fewshot_ost_prompt.txt"
+
+fewshot_cot_config: "/home/jncsnlp4/SSD2/ZJJ/VReST/prompt_methods/ours1/fewshot_cot_config.json"
+
+fewshot_cot_prompt : "/home/jncsnlp4/SSD2/ZJJ/VReST/prompt_methods/ours1/fewshot_cot_prompt.txt"

@@ -1,0 +1,5 @@
+data_name: mathvision
+output_file: /home/jncsnlp4/SSD2/ZJJ/VReST/data/Custom/mathvision/generated_mathvision.json
+input_file: /home/jncsnlp4/SSD2/ZJJ/VReST/outputs/desc=baseline/data=mathvision/llm=Qwen2-VL-7B-Instruct/prompt_method=mctsv8/generation.json
+task: ALL
+alias: _ALL_false

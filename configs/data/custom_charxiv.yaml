@@ -1,0 +1,43 @@
+name: custom_charxiv # change1
+path : /home/jncsnlp4/SSD2/ZJJ/VReST/data/Custom
+data_dir: /home/jncsnlp4/SSD2/ZJJ/VReST/data/CharXiv/data
+image_dir: /home/jncsnlp4/SSD2/ZJJ/VReST/data/CharXiv/images
+
+input_file: /home/jncsnlp4/SSD2/ZJJ/VReST/data/Custom/charxiv/generated_charxiv_ALL_0-200.json
+# input_file: /home/jncsnlp4/SSD2/ZJJ/VReST/data/Custom/charxiv/generated_charxiv_ALL_200-500.json
+# input_file: /home/jncsnlp4/SSD2/ZJJ/VReST/data/Custom/charxiv/generated_charxiv_ALL_500-700.json
+# input_file: /home/jncsnlp4/SSD2/ZJJ/VReST/data/Custom/charxiv/generated_charxiv_ALL_700-1000.json
+
+# input_file: /home/jncsnlp4/SSD2/ZJJ/VReST/data/Custom/charxiv/generated_charxiv_ALL_0-500.json
+# input_file: /home/jncsnlp4/SSD2/ZJJ/VReST/data/Custom/charxiv/generated_charxiv_ALL_500-1000.json
+
+# input_file: /home/jncsnlp4/SSD2/ZJJ/VReST/data/Custom/charxiv/generated_charxiv_ALL_false200.json
+# input_file: /home/jncsnlp4/SSD2/ZJJ/VReST/data/Custom/charxiv/generated_charxiv_ALL_false200v1.json
+# input_file: /home/jncsnlp4/SSD2/ZJJ/VReST/data/Custom/charxiv/generated_charxiv_ALL_all800.json
+# input_file: /home/jncsnlp4/SSD2/ZJJ/VReST/data/Custom/charxiv/generated_charxiv_ALL_baseline_false211.json
+# input_file: /home/jncsnlp4/SSD2/ZJJ/VReST/data/Custom/charxiv/generated_charxiv_ALL_baseline_false211:1000.json
+# input_file: /home/jncsnlp4/SSD2/ZJJ/VReST/data/Custom/charxiv/generated_charxiv_ALL_p3pro_true_0-200.json
+# input_file: /home/jncsnlp4/SSD2/ZJJ/VReST/data/Custom/charxiv/generated_charxiv_ALL_p3pro_true_200-394.json
+# input_file: /home/jncsnlp4/SSD2/ZJJ/VReST/data/Custom/charxiv/generated_charxiv_ALL_p3pro_true_200-394-false100.json
+# input_file: /home/jncsnlp4/SSD2/ZJJ/VReST/data/Custom/charxiv/generated_charxiv_ALL_p3pro_false_0-150.json
+# input_file: /home/jncsnlp4/SSD2/ZJJ/VReST/data/Custom/charxiv/generated_charxiv_ALL_p3pro_false_150-350.json
+# input_file: /home/jncsnlp4/SSD2/ZJJ/VReST/data/Custom/charxiv/generated_charxiv_ALL_p3pro_false_350-603.json
+# input_file: /home/jncsnlp4/SSD2/ZJJ/VReST/data/Custom/charxiv/generated_charxiv_ALL_baseline_true.json
+# input_file: /home/jncsnlp4/SSD2/ZJJ/VReST/data/Custom/charxiv/generated_charxiv_ALL_all800v1.json
+# input_file: /home/jncsnlp4/SSD2/ZJJ/VReST/data/Custom/charxiv/generated_charxiv_ALL_true.json
+# input_file: /home/jncsnlp4/SSD2/ZJJ/VReST/data/Custom/charxiv/generated_charxiv_ALL_True_1.json 
+# input_file: /home/jncsnlp4/SSD2/ZJJ/VReST/data/Custom/charxiv/generated_charxiv_ALL_False_2.json 
+# input_file: /home/jncsnlp4/SSD2/ZJJ/VReST/data/Custom/charxiv/generated_charxiv_ALL_False_3.json 
+# input_file: /home/jncsnlp4/SSD2/ZJJ/VReST/data/Custom/charxiv/generated_charxiv_ALL_False_Special_66.json
+# input_file: /home/jncsnlp4/SSD2/ZJJ/VReST/data/Custom/charxiv/generated_charxiv_STA.json # change2  
+# input_file: /home/jncsnlp4/SSD2/ZJJ/VReST/data/Custom/charxiv/generated_charxiv_CS.json # change2   
+# input_file: /home/jncsnlp4/SSD2/ZJJ/VReST/data/Custom/charxiv/generated_charxiv_EC.json # change2 
+# input_file: /home/jncsnlp4/SSD2/ZJJ/VReST/data/Custom/charxiv/generated_charxiv_QB.json # change2 
+# input_file: /home/jncsnlp4/SSD2/ZJJ/VReST/data/Custom/charxiv/generated_charxiv_QF.json # change2 
+# input_file: /home/jncsnlp4/SSD2/ZJJ/VReST/data/Custom/charxiv/generated_charxiv_MATH.json # change2 
+# input_file: /home/jncsnlp4/SSD2/ZJJ/VReST/data/Custom/charxiv/generated_charxiv_EESS.json # change2 
+# input_file: /home/jncsnlp4/SSD2/ZJJ/VReST/data/Custom/charxiv/generated_charxiv_PHY.json # change2 
+score_label: rule_score # rule_score,
+desc: 基线部分错误的样本 # change3
+mode: reasoning
+split: val

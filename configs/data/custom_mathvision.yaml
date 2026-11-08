@@ -1,0 +1,9 @@
+name: custom_mathvision # change1
+path : data/MATH-V
+data_dir: data/MATH-V/data
+image_dir: data/MATH-V
+input_file: testmini.jsonl
+run_file: /home/jncsnlp4/SSD2/ZJJ/VReST/data/Custom/mathvision/generated_mathvision_ALL_p3pro_false_0-236.json
+
+score_label: llm_score # rule_score,llm_score
+desc: 基线部分错误的样本 # change3

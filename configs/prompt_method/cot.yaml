@@ -1,1 +1,4 @@
 name: cot
+file_introduction: "cot prompt method"
+is_rephrasing_question: False
+data_id: -1

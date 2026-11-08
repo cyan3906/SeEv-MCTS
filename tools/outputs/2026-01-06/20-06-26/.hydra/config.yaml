@@ -1,0 +1,5 @@
+data_name: mathvista
+output_file: /home/jncsnlp4/SSD2/ZJJ/VReST/data/Custom/mathvista/generated_mathvista.json
+input_file: /home/jncsnlp4/SSD2/ZJJ/VReST/data/MathVista/data/testmini.json
+task: GPS
+alias: _1

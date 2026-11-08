@@ -1,0 +1,15 @@
+name: qwen3
+path: /home/jncsnlp4/SSD2/model/Qwen3-8b
+# /home/jncsnlp4/SSD2/model/Qwen2.5-7b-Instruct
+# /home/jncsnlp4/SSD2/model/Qwen2-7b-Instruct 
+n: 10
+temperature: 0.7
+top_p: 0.95
+max_input_len: 4096
+max_output_len: 713
+gpu_memory_utilization: 0.9
+max_num_seqs: 16
+call_method: local
+base_url: [http://localhost:8001/v1]
+api_key: EMPTY
+enable_thinking: False # 是否开启qwen3的思考模式 True False

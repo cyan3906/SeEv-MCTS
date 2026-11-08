@@ -1,0 +1,6 @@
+name: mathvista
+path: data/Test/MathVista
+data_dir: data/Test/MathVista/data
+image_dir: data/Test/MathVista/data/images/testmini/ALL
+input_file: testmini.json
+score_label: llm_score

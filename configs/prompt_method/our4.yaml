@@ -1,6 +1,27 @@
-name: our4    # Multi Agent system
-planner: qwen2vl_7b
-reasoner: qwen2vl_7b
-verifier: qwen2vl_7b
-judger: qwen2vl_7b
-summarizer: qwen25_7b
+name: our4  # 没有使用json模式，让模型尽可能生成json模型，然后使用规则方法提取
+
+file_introduction: "带有多模态特性的辅助信息-跑一下mathvista的GPS中对于baseline错误的信息 带有答案的验证"
+mcts_rollouts: 10 # 10 14
+ost_step_go: True # True False
+subquestion_go: False # True False
+
+ost_step_num: 8
+decompose_question_num: 8
+
+fewshot_ost_config: "/home/jncsnlp4/SSD2/ZJJ/VReST/prompt_methods/ours4_1/m_fewshot_ost_config.json"
+
+fewshot_ost_prompt : "/home/jncsnlp4/SSD2/ZJJ/VReST/prompt_methods/ours4_1/m_fewshot_ost_prompt.txt"
+
+fewshot_cot_config: "/home/jncsnlp4/SSD2/ZJJ/VReST/prompt_methods/ours1/fewshot_cot_config.json"
+
+fewshot_cot_prompt : "/home/jncsnlp4/SSD2/ZJJ/VReST/prompt_methods/ours1/fewshot_cot_prompt.txt"
+
+image_description_csv : "/home/jncsnlp4/SSD2/ZJJ/VReST/data/Custom/mathvista/mathvista_GPS.csv"
+
+image_description: {}
+
+prethink: ""
+
+attempt_num: 3
+return_num: 10 # 投票的数量
+tree_width: 5

@@ -1,0 +1,6 @@
+data_name: charxiv
+output_file: /home/jncsnlp4/SSD2/ZJJ/VReST/data/Custom/charxiv/generated_charxiv.json
+input_file: /home/jncsnlp4/SSD2/ZJJ/VReST/data/CharXiv/data/reasoning_val.json
+input_file2: /home/jncsnlp4/SSD2/ZJJ/VReST/data/CharXiv/data/image_metadata_val.json
+task: ALL
+alias: _false_2

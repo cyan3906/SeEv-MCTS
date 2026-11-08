@@ -1,0 +1,4 @@
+data_name: mathvistra
+output_file: /home/jncsnlp4/SSD2/ZJJ/VReST/data/Custom/generated_mathvistra.json
+input_file: /home/jncsnlp4/SSD2/ZJJ/VReST/data/MathVista/data/testmini.json
+task: FQA

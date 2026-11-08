@@ -1,8 +1,31 @@
 name: mctsv8
 
+is_kv_cache: True # 是否使用kv
+
+is_p3: False # 标准p3
+is_p3pro: False # 使用原始多次采样的Yes/No自一致性奖励
+
+use_p3pro_for_low_answer: False
+p3pro_question_threshold: 0.7
+p3pro_answer_threshold: 0.7
+
+prune_low_reward_nodes: True # Rq和Ra同时低于阈值时剪枝
+prune_reward_threshold: 0.7
+
+embedding_batch_size: 32
+embedding_similarity_threshold: 0.9
+
+is_deduplicate: False # 然后去重 False
+is_deduplicatev2: False # 将温度从0.7升到1.0
+deduplicate_multiple: 7 # 2 3 4 实际数量
+
 attempt_num: 3
 decompose_question_num: 8
+return_num: 10
 tree_width: 5
 
-
 mcts_rollouts: 10
+is_rephrasing_question: False
+
+data_id: -1
+file_introduction: "基于MCTS的问题分解"

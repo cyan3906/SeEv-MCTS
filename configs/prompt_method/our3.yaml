@@ -1,4 +1,27 @@
-name: our3_refine_validate_text_only  # 没有使用json模式，使用规则方法提取   多跳问答的范式
-validate: True
-refine_question: True
-decompose_text_only: True
+name: our3  # 没有使用json模式，让模型尽可能生成json模型，然后使用规则方法提取
+
+file_introduction: "以ost节点为根基 然后子问题分解提供辅助的信息"
+
+mcts_rollouts: 12 # 10 12 14
+
+ost_step_go: True # True False
+subquestion_go: True # True False
+
+ost_step_num: 8
+decompose_question_num: 8
+
+fewshot_ost_config: "/home/jncsnlp4/SSD2/ZJJ/VReST/prompt_methods/ours1/fewshot_ost_config.json"
+
+fewshot_ost_prompt : "/home/jncsnlp4/SSD2/ZJJ/VReST/prompt_methods/ours1/fewshot_ost_prompt.txt"
+
+fewshot_cot_config: "/home/jncsnlp4/SSD2/ZJJ/VReST/prompt_methods/ours1/fewshot_cot_config.json"
+
+fewshot_cot_prompt : "/home/jncsnlp4/SSD2/ZJJ/VReST/prompt_methods/ours1/fewshot_cot_prompt.txt"
+
+
+attempt_num: 3
+return_num: 10 # 投票的数量
+tree_width: 4
+# subquestion_tree_width: 2
+
+# 这个是自己的方法 让大模型去批判ost的分数

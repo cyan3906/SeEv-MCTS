@@ -1,0 +1,1736 @@
+{
+    "3": {
+        "choices": [
+            "135°",
+            "140°",
+            "145°",
+            "150°"
+        ],
+        "answer": "145°",
+        "response": "The answer is: B",
+        "time": 103.1296694278717
+    },
+    "6": {
+        "choices": [
+            "6cm",
+            "7cm",
+            "4cm",
+            "5cm"
+        ],
+        "answer": "6cm",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "9": {
+        "choices": [
+            "15",
+            "13",
+            "11",
+            "8"
+        ],
+        "answer": "8",
+        "response": "The answer is: A",
+        "time": 184.60009765625
+    },
+    "17": {
+        "choices": [
+            "5",
+            "6",
+            "8",
+            "10"
+        ],
+        "answer": "5",
+        "response": "The answer is: (A) 5",
+        "time": 42.92889618873596
+    },
+    "28": {
+        "choices": [
+            "7.5",
+            "8",
+            "8.5",
+            "17"
+        ],
+        "answer": "8.5",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "30": {
+        "choices": [
+            "60°",
+            "70°",
+            "80°",
+            "85°"
+        ],
+        "answer": "70°",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "32": {
+        "choices": [
+            "40°",
+            "50°",
+            "60°",
+            "70°"
+        ],
+        "answer": "70°",
+        "response": "The answer is: B",
+        "time": 131.59513640403748
+    },
+    "33": {
+        "choices": [
+            "2πcm",
+            "3πcm",
+            "4πcm",
+            "5πcm"
+        ],
+        "answer": "4πcm",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "35": {
+        "choices": [
+            "20°",
+            "35°",
+            "40°",
+            "55°"
+        ],
+        "answer": "35°",
+        "response": "The answer is C",
+        "time": 123.68454885482788
+    },
+    "48": {
+        "choices": [
+            "28",
+            "38",
+            "52",
+            "62"
+        ],
+        "answer": "38",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "54": {
+        "choices": [
+            "8",
+            "10",
+            "15",
+            "18",
+            "20"
+        ],
+        "answer": "10",
+        "response": "The answer is: B",
+        "time": 56.63280200958252
+    },
+    "55": {
+        "choices": [
+            "60°",
+            "45°",
+            "30°",
+            "25°"
+        ],
+        "answer": "30°",
+        "response": "The answer is: C",
+        "time": 213.88283324241638
+    },
+    "59": {
+        "choices": [
+            "26°",
+            "74°",
+            "64°",
+            "54°"
+        ],
+        "answer": "64°",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "62": {
+        "choices": [
+            "4",
+            "5",
+            "5.5",
+            "6"
+        ],
+        "answer": "4",
+        "response": "The answer is: A",
+        "time": 21.537933111190796
+    },
+    "68": {
+        "choices": [
+            "2cm",
+            "4cm",
+            "6cm",
+            "8cm"
+        ],
+        "answer": "4cm",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "79": {
+        "choices": [
+            "30°",
+            "45°",
+            "60°",
+            "70°"
+        ],
+        "answer": "60°",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "82": {
+        "choices": [
+            "3",
+            "3 \\sqrt 2",
+            "6",
+            "6 \\sqrt 2"
+        ],
+        "answer": "6",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "94": {
+        "choices": [
+            "36°",
+            "44°",
+            "27°",
+            "54°"
+        ],
+        "answer": "27°",
+        "response": "The answer is: C",
+        "time": 129.82590436935425
+    },
+    "95": {
+        "choices": [
+            "50°",
+            "60°",
+            "70°",
+            "80°"
+        ],
+        "answer": "80°",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "114": {
+        "choices": [
+            "6.00",
+            "9.45",
+            "18.9",
+            "37.8"
+        ],
+        "answer": "9.45",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "119": {
+        "choices": [
+            "45°",
+            "40°",
+            "25°",
+            "20°"
+        ],
+        "answer": "20°",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "132": {
+        "choices": [
+            "1",
+            "1.5",
+            "2",
+            "\\frac{7}{3}"
+        ],
+        "answer": "2",
+        "response": "The answer is: D",
+        "time": 27.083415746688843
+    },
+    "141": {
+        "choices": [
+            "3.85米",
+            "4.00米",
+            "4.40米",
+            "4.50米"
+        ],
+        "answer": "4.40米",
+        "response": "The answer is: C",
+        "time": 141.7917559146881
+    },
+    "143": {
+        "choices": [
+            "1",
+            "2",
+            "3",
+            "6"
+        ],
+        "answer": "3",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "149": {
+        "choices": [
+            "55°",
+            "60°",
+            "65°",
+            "70°"
+        ],
+        "answer": "55°",
+        "response": "The answer is: C",
+        "time": 93.44437527656555
+    },
+    "150": {
+        "choices": [
+            "40°",
+            "50°",
+            "80°",
+            "100°"
+        ],
+        "answer": "40°",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "152": {
+        "choices": [
+            "36°",
+            "45°",
+            "44°",
+            "64°"
+        ],
+        "answer": "44°",
+        "response": "The answer is: (C) 44°",
+        "time": 227.75979375839233
+    },
+    "160": {
+        "choices": [
+            "10",
+            "11",
+            "12",
+            "13"
+        ],
+        "answer": "12",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "164": {
+        "choices": [
+            "55°",
+            "35°",
+            "25°",
+            "30°"
+        ],
+        "answer": "35°",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "176": {
+        "choices": [
+            "0.5",
+            "1",
+            "1.5",
+            "2"
+        ],
+        "answer": "2",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "186": {
+        "choices": [
+            "\\frac{20}{3}",
+            "\\frac{10}{3}",
+            "7",
+            "\\frac{14}{3}"
+        ],
+        "answer": "\\frac{20}{3}",
+        "response": "The answer is: (A) \\frac{20}{3}.",
+        "time": 53.40542554855347
+    },
+    "192": {
+        "choices": [
+            "10°",
+            "20°",
+            "40°",
+            "80°"
+        ],
+        "answer": "40°",
+        "response": "The answer is: (C) 40°",
+        "time": 62.19782590866089
+    },
+    "206": {
+        "choices": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "answer": "3",
+        "response": "The answer is: A",
+        "time": 52.43949866294861
+    },
+    "220": {
+        "choices": [
+            "125°",
+            "120°",
+            "105°",
+            "90°"
+        ],
+        "answer": "125°",
+        "response": "The answer is: (A) 125°",
+        "time": 195.32275128364563
+    },
+    "228": {
+        "choices": [
+            "50°",
+            "55°",
+            "60°",
+            "65°"
+        ],
+        "answer": "50°",
+        "response": "The answer is: B",
+        "time": 126.20082235336304
+    },
+    "234": {
+        "choices": [
+            "3",
+            "5",
+            "6",
+            "7",
+            "It cannot be determined from the information given"
+        ],
+        "answer": "6",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "236": {
+        "choices": [
+            "7",
+            "9",
+            "12",
+            "15"
+        ],
+        "answer": "12",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "238": {
+        "choices": [
+            "6",
+            "\\frac { 20 } { 3 }",
+            "7",
+            "22 / 3"
+        ],
+        "answer": "\\frac { 20 } { 3 }",
+        "response": "The answer is: (B) \\frac { 20 } { 3 }",
+        "time": 43.70840525627136
+    },
+    "242": {
+        "choices": [
+            "45",
+            "90",
+            "135",
+            "180"
+        ],
+        "answer": "135",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "250": {
+        "choices": [
+            "4.6",
+            "6.5",
+            "13.0",
+            "26.0"
+        ],
+        "answer": "13.0",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "255": {
+        "choices": [
+            "70°",
+            "55°",
+            "40°",
+            "30°"
+        ],
+        "answer": "40°",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "256": {
+        "choices": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "answer": "6",
+        "response": "Therefore, the area of triangle ADC is 1/2 * 4 * 3 = 6.\n\nThe answer is D.",
+        "time": 50.53825068473816
+    },
+    "269": {
+        "choices": [
+            "160m",
+            "160√{3}m",
+            "(160-160√{3})m",
+            "360m"
+        ],
+        "answer": "160√{3}m",
+        "response": "The answer is: B",
+        "time": 66.17880654335022
+    },
+    "270": {
+        "choices": [
+            "50°",
+            "65°",
+            "100°",
+            "130°"
+        ],
+        "answer": "100°",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "271": {
+        "choices": [
+            "3",
+            "4.5",
+            "5",
+            "6"
+        ],
+        "answer": "5",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "273": {
+        "choices": [
+            "6.5",
+            "13",
+            "26",
+            "52"
+        ],
+        "answer": "26",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "274": {
+        "choices": [
+            "14",
+            "12",
+            "9",
+            "7"
+        ],
+        "answer": "7",
+        "response": "Therefore, AB + CD = 2 + 5 = 7.\n\nThe answer is (D) 7.",
+        "time": 104.5803210735321
+    },
+    "275": {
+        "choices": [
+            "\\frac{21}{2}",
+            "\\frac{√{15}}{2}",
+            "\\frac{9}{2}",
+            "\\frac{3√{5}}{2}"
+        ],
+        "answer": "\\frac{3√{5}}{2}",
+        "response": "The answer is: (A)",
+        "time": 143.4474115371704
+    },
+    "276": {
+        "choices": [
+            "1mm",
+            "2mm",
+            "3mm",
+            "4mm"
+        ],
+        "answer": "3mm",
+        "response": "The answer is: C",
+        "time": 168.49072432518005
+    },
+    "280": {
+        "choices": [
+            "80",
+            "60",
+            "40",
+            "30",
+            "20"
+        ],
+        "answer": "60",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "283": {
+        "choices": [
+            "2",
+            "4",
+            "5",
+            "10"
+        ],
+        "answer": "5",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "285": {
+        "choices": [
+            "50°",
+            "40°",
+            "30°",
+            "25°"
+        ],
+        "answer": "25°",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "286": {
+        "choices": [
+            "6cm",
+            "5cm",
+            "4cm",
+            "2cm"
+        ],
+        "answer": "2cm",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "290": {
+        "choices": [
+            "75°",
+            "85°",
+            "95°",
+            "105°"
+        ],
+        "answer": "75°",
+        "response": "The answer is: (A) 75°.",
+        "time": 89.31778168678284
+    },
+    "300": {
+        "choices": [
+            "59",
+            "135",
+            "270",
+            "301"
+        ],
+        "answer": "270",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "316": {
+        "choices": [
+            "50°",
+            "80°",
+            "100°",
+            "200°"
+        ],
+        "answer": "50°",
+        "response": "The answer is: A",
+        "time": 135.77285385131836
+    },
+    "318": {
+        "choices": [
+            "191.5",
+            "1128",
+            "2256",
+            "4512"
+        ],
+        "answer": "2256",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "322": {
+        "choices": [
+            "10m",
+            "20m",
+            "35m",
+            "40m"
+        ],
+        "answer": "40m",
+        "response": "The answer is: (D) 40m",
+        "time": 47.34014081954956
+    },
+    "338": {
+        "choices": [
+            "6",
+            "8",
+            "2*x",
+            "4*x",
+            "4*x^2"
+        ],
+        "answer": "8",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "339": {
+        "choices": [
+            "65°",
+            "75°",
+            "50°",
+            "55°"
+        ],
+        "answer": "55°",
+        "response": "The answer is: C",
+        "time": 104.4383692741394
+    },
+    "342": {
+        "choices": [
+            "a",
+            "b",
+            "c",
+            "d",
+            "e"
+        ],
+        "answer": "d",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "360": {
+        "choices": [
+            "40",
+            "50",
+            "65",
+            "110"
+        ],
+        "answer": "50",
+        "response": "The answer is: C",
+        "time": 130.7086033821106
+    },
+    "364": {
+        "choices": [
+            "30°",
+            "35°",
+            "40°",
+            "45°"
+        ],
+        "answer": "40°",
+        "response": "The answer is: (C) 40°",
+        "time": 144.2609465122223
+    },
+    "371": {
+        "choices": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "answer": "4",
+        "response": "The answer is: B",
+        "time": 113.10940456390381
+    },
+    "373": {
+        "choices": [
+            "110°",
+            "120°",
+            "140°",
+            "150°"
+        ],
+        "answer": "120°",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "375": {
+        "choices": [
+            "1.5",
+            "7",
+            "11",
+            "12.5"
+        ],
+        "answer": "7",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "378": {
+        "choices": [
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "answer": "8",
+        "response": "The answer is: B",
+        "time": 43.74463605880737
+    },
+    "386": {
+        "choices": [
+            "5",
+            "10",
+            "10 \\sqrt { 3 }",
+            "20"
+        ],
+        "answer": "10 \\sqrt { 3 }",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "388": {
+        "choices": [
+            "0.38",
+            "0.42",
+            "0.92",
+            "2.40"
+        ],
+        "answer": "0.42",
+        "response": "The answer is: D",
+        "time": 61.14712333679199
+    },
+    "391": {
+        "choices": [
+            "40°",
+            "60°",
+            "50°",
+            "20°"
+        ],
+        "answer": "20°",
+        "response": "The answer is: C",
+        "time": 57.28224039077759
+    },
+    "397": {
+        "choices": [
+            "1",
+            "2",
+            "2.2",
+            "2.5"
+        ],
+        "answer": "2",
+        "response": "The answer is: B",
+        "time": 51.59340834617615
+    },
+    "403": {
+        "choices": [
+            "7",
+            "24",
+            "25",
+            "32"
+        ],
+        "answer": "32",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "408": {
+        "choices": [
+            "6",
+            "6 \\sqrt { 2 }",
+            "6 \\sqrt { 3 }",
+            "6 \\sqrt { 5 }"
+        ],
+        "answer": "6 \\sqrt { 5 }",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "410": {
+        "choices": [
+            "20.25",
+            "21",
+            "27",
+            "36"
+        ],
+        "answer": "20.25",
+        "response": "The answer is: (A) 20.25",
+        "time": 395.32562375068665
+    },
+    "413": {
+        "choices": [
+            "25°",
+            "35°",
+            "40°",
+            "45°"
+        ],
+        "answer": "40°",
+        "response": "The answer is: (C) 40°.",
+        "time": 94.49372696876526
+    },
+    "414": {
+        "choices": [
+            "6",
+            "8",
+            "9",
+            "10"
+        ],
+        "answer": "9",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "425": {
+        "choices": [
+            "0.6",
+            "0.8",
+            "0.75",
+            "\\frac{4}{3}"
+        ],
+        "answer": "0.6",
+        "response": "In a right triangle, the cosine of an angle is defined as the ratio of the length of the side adjacent to the angle to the length of the hypotenuse. Here, angle A is adjacent to side AC, and the hypotenuse is AB. Thus, cosA = AC/AB = 6/10 = 0.6.\n\nTherefore, the correct answer is (A) 0.6.",
+        "time": 213.00488471984863
+    },
+    "426": {
+        "choices": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": "2",
+        "response": "The answer is: B",
+        "time": 91.26648926734924
+    },
+    "467": {
+        "choices": [
+            "90",
+            "100",
+            "110",
+            "120"
+        ],
+        "answer": "110",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "478": {
+        "choices": [
+            "10",
+            "8",
+            "6",
+            "5"
+        ],
+        "answer": "10",
+        "response": "Therefore, the answer is (A) 10.",
+        "time": 96.95540165901184
+    },
+    "483": {
+        "choices": [
+            "40°",
+            "50°",
+            "60°",
+            "20°"
+        ],
+        "answer": "50°",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "485": {
+        "choices": [
+            "20°",
+            "15°",
+            "10°",
+            "5°"
+        ],
+        "answer": "10°",
+        "response": "The answer is: (C) 10°.",
+        "time": 105.4082543849945
+    },
+    "486": {
+        "choices": [
+            "12",
+            "14",
+            "35",
+            "24"
+        ],
+        "answer": "24",
+        "response": "Calculate the perimeter of the parallelogram.\n- Perimeter = AB + BC + CD + DA\n- Perimeter = 5 + 5 + 7 + 7 = 24\n\nThe answer is: D",
+        "time": 109.0841851234436
+    },
+    "490": {
+        "choices": [
+            "30°",
+            "40°",
+            "50°",
+            "60°"
+        ],
+        "answer": "50°",
+        "response": "The answer is: (C) 50°",
+        "time": 71.92396926879883
+    },
+    "492": {
+        "choices": [
+            "1",
+            "√{3}",
+            "2",
+            "2√{3}"
+        ],
+        "answer": "2√{3}",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "499": {
+        "choices": [
+            "33",
+            "38",
+            "52",
+            "87"
+        ],
+        "answer": "52",
+        "response": "The answer is B.",
+        "time": 95.37565970420837
+    },
+    "504": {
+        "choices": [
+            "10",
+            "8",
+            "6",
+            "4"
+        ],
+        "answer": "8",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "505": {
+        "choices": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "answer": "3",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "521": {
+        "choices": [
+            "20°",
+            "30°",
+            "40°",
+            "60°"
+        ],
+        "answer": "40°",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "523": {
+        "choices": [
+            "10m",
+            "5m",
+            "5√{3}m",
+            "10√{3}m"
+        ],
+        "answer": "5√{3}m",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "536": {
+        "choices": [
+            "17.5°",
+            "35°",
+            "60°",
+            "70°"
+        ],
+        "answer": "70°",
+        "response": "Therefore, ∠AOB = 2 * ∠C = 2 * 35° = 70°.\n\nThe answer is (D) 70°.",
+        "time": 103.36959910392761
+    },
+    "538": {
+        "choices": [
+            "9π",
+            "6π",
+            "3π",
+            "π"
+        ],
+        "answer": "9π",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "539": {
+        "choices": [
+            "8",
+            "10",
+            "12",
+            "14"
+        ],
+        "answer": "12",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "549": {
+        "choices": [
+            "8",
+            "12",
+            "16",
+            "不能确定"
+        ],
+        "answer": "16",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "557": {
+        "choices": [
+            "4",
+            "6",
+            "8",
+            "9"
+        ],
+        "answer": "6",
+        "response": "The answer is: D",
+        "time": 111.80232000350952
+    },
+    "575": {
+        "choices": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "answer": "3",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "583": {
+        "choices": [
+            "5.8",
+            "6.5",
+            "14.2",
+            "44.3"
+        ],
+        "answer": "5.8",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "585": {
+        "choices": [
+            "4",
+            "3",
+            "2",
+            "2√{3}"
+        ],
+        "answer": "4",
+        "response": "The answer is: (D) 2√{3}.",
+        "time": 46.12959027290344
+    },
+    "587": {
+        "choices": [
+            "20海里",
+            "20√{2}海里",
+            "15海里",
+            "20海里"
+        ],
+        "answer": "20√{2}海里",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "615": {
+        "choices": [
+            "29",
+            "34",
+            "37",
+            "38"
+        ],
+        "answer": "38",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "621": {
+        "choices": [
+            "40",
+            "42.5",
+            "50",
+            "52.5",
+            "62.5"
+        ],
+        "answer": "62.5",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "622": {
+        "choices": [
+            "30",
+            "36",
+            "72",
+            "24"
+        ],
+        "answer": "36",
+        "response": "The answer is: B",
+        "time": 49.39077544212341
+    },
+    "633": {
+        "choices": [
+            "47",
+            "57",
+            "67",
+            "123"
+        ],
+        "answer": "57",
+        "response": "The measure of angle 14 is 180 - 123 = 57 degrees. Therefore, the answer is B.",
+        "time": 112.44069647789001
+    },
+    "635": {
+        "choices": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "answer": "3",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "637": {
+        "choices": [
+            "100°",
+            "110°",
+            "120°",
+            "130°"
+        ],
+        "answer": "120°",
+        "response": "The answer is: (C) 120°",
+        "time": 69.76089358329773
+    },
+    "642": {
+        "choices": [
+            "4",
+            "6",
+            "8",
+            "10",
+            "12"
+        ],
+        "answer": "12",
+        "response": "The answer is: E",
+        "time": 90.6943769454956
+    },
+    "643": {
+        "choices": [
+            "25°",
+            "30°",
+            "40°",
+            "50°"
+        ],
+        "answer": "25°",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "645": {
+        "choices": [
+            "2.4",
+            "2.5",
+            "4.8",
+            "5"
+        ],
+        "answer": "2.4",
+        "response": "The answer is: B",
+        "time": 95.60695338249207
+    },
+    "665": {
+        "choices": [
+            "4.62",
+            "5.66",
+            "6.93",
+            "8"
+        ],
+        "answer": "8",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "669": {
+        "choices": [
+            "2",
+            "2.5",
+            "3",
+            "3.5"
+        ],
+        "answer": "3.5",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "675": {
+        "choices": [
+            "13m",
+            "34m",
+            "(6+14√{3})m",
+            "40m"
+        ],
+        "answer": "34m",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "678": {
+        "choices": [
+            "21",
+            "34",
+            "58",
+            "67"
+        ],
+        "answer": "58",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "679": {
+        "choices": [
+            "15",
+            "17",
+            "21",
+            "27"
+        ],
+        "answer": "17",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "694": {
+        "choices": [
+            "125°",
+            "120°",
+            "115°",
+            "110°"
+        ],
+        "answer": "110°",
+        "response": "The answer is: A",
+        "time": 154.3126847743988
+    },
+    "697": {
+        "choices": [
+            "12",
+            "18",
+            "27",
+            "54"
+        ],
+        "answer": "27",
+        "response": "The answer is: C",
+        "time": 244.82959175109863
+    },
+    "700": {
+        "choices": [
+            "1",
+            "2",
+            "2√{2}",
+            "√{6}"
+        ],
+        "answer": "2√{2}",
+        "response": "The answer is: C",
+        "time": 52.965649366378784
+    },
+    "707": {
+        "choices": [
+            "60°",
+            "80°",
+            "100°",
+            "120°"
+        ],
+        "answer": "120°",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "713": {
+        "choices": [
+            "3",
+            "4",
+            "6",
+            "7"
+        ],
+        "answer": "3",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "726": {
+        "choices": [
+            "10",
+            "30",
+            "90",
+            "120"
+        ],
+        "answer": "10",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "736": {
+        "choices": [
+            "28°",
+            "30°",
+            "32°",
+            "58°"
+        ],
+        "answer": "32°",
+        "response": "The answer is: (C) 32°",
+        "time": 136.8076033592224
+    },
+    "737": {
+        "choices": [
+            "32",
+            "39",
+            "46",
+            "78"
+        ],
+        "answer": "78",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "744": {
+        "choices": [
+            "5.4",
+            "6",
+            "6.6",
+            "7.5"
+        ],
+        "answer": "7.5",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "747": {
+        "choices": [
+            "65",
+            "120",
+            "130",
+            "155"
+        ],
+        "answer": "130",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "748": {
+        "choices": [
+            "65°",
+            "60°",
+            "55°",
+            "50°"
+        ],
+        "answer": "65°",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "752": {
+        "choices": [
+            "1",
+            "√{3}",
+            "2",
+            "3"
+        ],
+        "answer": "2",
+        "response": "The answer is: (C) 2",
+        "time": 86.89200019836426
+    },
+    "757": {
+        "choices": [
+            "7.2",
+            "8",
+            "12",
+            "15"
+        ],
+        "answer": "7.2",
+        "response": "The answer is: (A) 7.2",
+        "time": 39.53972554206848
+    },
+    "773": {
+        "choices": [
+            "25°",
+            "40°",
+            "50°",
+            "65°"
+        ],
+        "answer": "40°",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "776": {
+        "choices": [
+            "16.50",
+            "18.79",
+            "20.32",
+            "25.50"
+        ],
+        "answer": "18.79",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "777": {
+        "choices": [
+            "10",
+            "40",
+            "70",
+            "140"
+        ],
+        "answer": "40",
+        "response": "The answer is: D",
+        "time": 35.07284164428711
+    },
+    "781": {
+        "choices": [
+            "9",
+            "12",
+            "18",
+            "18"
+        ],
+        "answer": "18",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "783": {
+        "choices": [
+            "30m",
+            "30√{3}m",
+            "(30√{3}+30)m",
+            "(30√{3}-30)m"
+        ],
+        "answer": "30√{3}m",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "786": {
+        "choices": [
+            "6",
+            "60",
+            "100",
+            "180"
+        ],
+        "answer": "100",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "790": {
+        "choices": [
+            "10",
+            "11",
+            "12",
+            "13"
+        ],
+        "answer": "12",
+        "response": "The answer is: B",
+        "time": 53.614853858947754
+    },
+    "804": {
+        "choices": [
+            "3.71",
+            "4.29",
+            "4.53",
+            "6.75"
+        ],
+        "answer": "4.29",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "806": {
+        "choices": [
+            "80°",
+            "60°",
+            "50°",
+            "40°"
+        ],
+        "answer": "50°",
+        "response": "The answer is: C",
+        "time": 129.19444680213928
+    },
+    "815": {
+        "choices": [
+            "60",
+            "120",
+            "240",
+            "360"
+        ],
+        "answer": "120",
+        "response": "The answer is: (B) 120",
+        "time": 118.8349015712738
+    },
+    "816": {
+        "choices": [
+            "3",
+            "9",
+            "12.25",
+            "24"
+        ],
+        "answer": "3",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "817": {
+        "choices": [
+            "65°",
+            "25°",
+            "35°",
+            "45°"
+        ],
+        "answer": "25°",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "819": {
+        "choices": [
+            "6",
+            "7",
+            "8",
+            "13"
+        ],
+        "answer": "7",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "820": {
+        "choices": [
+            "0.14",
+            "0.48",
+            "0.50",
+            "0.96"
+        ],
+        "answer": "0.96",
+        "response": "The answer is: (D) 0.96",
+        "time": 64.57286620140076
+    },
+    "822": {
+        "choices": [
+            "22",
+            "40",
+            "44",
+            "48"
+        ],
+        "answer": "44",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "853": {
+        "choices": [
+            "3",
+            "6",
+            "9",
+            "12"
+        ],
+        "answer": "12",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "866": {
+        "choices": [
+            "45",
+            "60",
+            "120",
+            "135"
+        ],
+        "answer": "135",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "876": {
+        "choices": [
+            "45",
+            "60",
+            "90",
+            "180"
+        ],
+        "answer": "90",
+        "response": "Therefore, the measure of each central angle is 90 degrees.\n\nThe answer is (C).",
+        "time": 147.2652850151062
+    },
+    "878": {
+        "choices": [
+            "6",
+            "2√{2}",
+            "11",
+            "24"
+        ],
+        "answer": "11",
+        "response": "Solving for \\( S2 \\), we get \\( S2 = 16 - 5 = 11 \\).\n\nTherefore, the answer is (C) 11.",
+        "time": 64.56485104560852
+    },
+    "887": {
+        "choices": [
+            "140°",
+            "130°",
+            "120°",
+            "110°"
+        ],
+        "answer": "140°",
+        "response": "The answer is: A",
+        "time": 94.75359582901001
+    },
+    "897": {
+        "choices": [
+            "33",
+            "40",
+            "50",
+            "57"
+        ],
+        "answer": "40",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "903": {
+        "choices": [
+            "30°",
+            "45°",
+            "60°",
+            "70°"
+        ],
+        "answer": "60°",
+        "response": "The answer is: C",
+        "time": 48.94110083580017
+    },
+    "927": {
+        "choices": [
+            "19",
+            "16",
+            "29",
+            "18"
+        ],
+        "answer": "19",
+        "response": "The answer is: A",
+        "time": 104.58293557167053
+    },
+    "930": {
+        "choices": [
+            "119°",
+            "122°",
+            "148°",
+            "150°"
+        ],
+        "answer": "119°",
+        "response": "The answer is: (A) 119°",
+        "time": 74.39559864997864
+    },
+    "931": {
+        "choices": [
+            "35°",
+            "50°",
+            "40°",
+            "60°"
+        ],
+        "answer": "50°",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "938": {
+        "choices": [
+            "75",
+            "85",
+            "95",
+            "105"
+        ],
+        "answer": "105",
+        "response": "Therefore, the measure of $\\angle 6$ is $180 - 75 = 105$.\n\nThe answer is D.",
+        "time": 100.01008796691895
+    },
+    "947": {
+        "choices": [
+            "95°",
+            "105°",
+            "115°",
+            "125°"
+        ],
+        "answer": "115°",
+        "response": "The answer is: D",
+        "time": 85.41316533088684
+    },
+    "955": {
+        "choices": [
+            "30°",
+            "32°",
+            "36°",
+            "40°"
+        ],
+        "answer": "36°",
+        "response": "The answer is: B",
+        "time": 143.87036323547363
+    },
+    "977": {
+        "choices": [
+            "65°",
+            "5°",
+            "15°",
+            "25°"
+        ],
+        "answer": "25°",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "990": {
+        "choices": [
+            "45",
+            "49",
+            "90",
+            "98"
+        ],
+        "answer": "49",
+        "response": "Failed to generate response!",
+        "time": null
+    },
+    "998": {
+        "choices": [
+            "28°",
+            "30°",
+            "32°",
+            "38°"
+        ],
+        "answer": "28°",
+        "response": "The answer is: (B)",
+        "time": 49.8817400932312
+    }
+}

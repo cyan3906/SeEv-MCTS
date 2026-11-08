@@ -4,7 +4,7 @@ tree search prompt
 
 init_system_prompt = """You are a helpful assistant."""
 
-plan_prompt = """Given a question, please decompose it into sub-questions. For each sub-question, please answer it in a complete sentence, ending with "The answer is". When the original question is answerable, please start the sub-question with "Now we can answer the question:".
+plan_prompt = """Given a question, please decompose it into sub-questions. For each sub-question, please answer it in a complete sentence, ending with "The answer is". When the original question is answerable, please start the sub-question with "Now we can answer the question:" For the generation of sub-questions, no answers or any explanations are required.
 
 **Output Example:**
 
@@ -27,6 +27,7 @@ Answer 5: Kody is currently 32 years old. The final answer is 32.
 
 
 """
+
 question_prefix = "**Question:** {question}"
 subquestion_prefix = "Sub-question {step}: {subquestion}"
 overall_question_prefix = "Sub-question {step}: Now we can answer the question: {overall_question}"
@@ -63,8 +64,34 @@ Is the new question useful? No. It is too hard to answer the new question based 
 new_subquestion_prefix = "New Sub-question {step}: {subquestion}"
 reward_prefix = "Is the new question useful?"
 
-reward_prompt_for_answer = """Given a question and some sub-questions and answers, determine whether the last answer of the last sub-question is correct. Output 'Yes' or 'No'.
+reward_prompt_for_answer = """Given a question and some sub-questions and answers, determine whether the last answer of the last sub-question is correct. Only output 'Yes' or 'No'.
 
 """
 
 reward_prefix_for_answer = "Is the answer correct?"
+
+
+generate_diverse_prompt = """
+    Given a main problem and a list of already generated subproblems,
+    analyze the main problem from different perspectives,
+    and generate new distinct subproblems that have not been listed.
+    The new subproblems should be relevant to the main problem,
+    cover different aspects or reasoning steps,
+    and must be different from the existing subproblems.
+
+    Main problem: {main_question}
+    Existing subproblems:
+    {subproblem_list}
+
+    Please output only the new subproblems, one per line.
+    
+"""
+
+
+
+
+
+
+
+
+

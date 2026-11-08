@@ -1,0 +1,25 @@
+name: custom_mathvista # change1
+path : /home/jncsnlp4/SSD2/ZJJ/VReST/data/MathVista
+data_dir: /home/jncsnlp4/SSD2/ZJJ/VReST/data/MathVista/data
+image_dir: /home/jncsnlp4/SSD2/ZJJ/VReST/data/MathVista/data/images/testmini/ALL
+
+# input_file: /home/jncsnlp4/SSD2/ZJJ/VReST/data/Custom/mathvista/generated_mathvista_GPS.json
+# input_file: /home/jncsnlp4/SSD2/ZJJ/VReST/data/Custom/mathvista/generated_mathvista_MWP.json=
+# input_file: /home/jncsnlp4/SSD2/ZJJ/VReST/data/Custom/mathvista/generated_mathvista_ALL_700-1000.json
+input_file: /home/jncsnlp4/SSD2/ZJJ/VReST/data/Custom/mathvista/generated_mathvista_ALL_575-700.json
+# input_file: /home/jncsnlp4/SSD2/ZJJ/VReST/data/Custom/mathvista/generated_mathvista_ALL_p3pro_true-false-117.json
+# input_file: /home/jncsnlp4/SSD2/ZJJ/VReST/data/Custom/mathvista/generated_mathvista_ALL_p3pro_false_0-100.json
+# input_file: /home/jncsnlp4/SSD2/ZJJ/VReST/data/Custom/mathvista/generated_mathvista_ALL_p3pro_false_100-250.json
+# input_file: /home/jncsnlp4/SSD2/ZJJ/VReST/data/Custom/mathvista/generated_mathvista_ALL_p3pro_false_250-480.json
+# input_file: /home/jncsnlp4/SSD2/ZJJ/VReST/data/Custom/mathvista/generated_mathvista_ALL_p3pro_true_0-200.json
+# input_file: /home/jncsnlp4/SSD2/ZJJ/VReST/data/Custom/mathvista/generated_mathvista_ALL_p3pro_true_200-508.json
+# input_file: /home/jncsnlp4/SSD2/ZJJ/VReST/data/Custom/mathvista/generated_mathvista_GPS_FQA_VQA_TQA.json
+# input_file: /home/jncsnlp4/SSD2/ZJJ/VReST/data/Custom/mathvista/generated_mathvista_TQA.json
+# input_file: /home/jncsnlp4/SSD2/ZJJ/VReST/data/Custom/mathvista/generated_mathvista_FQA.json
+# input_file: /home/jncsnlp4/SSD2/ZJJ/VReST/data/Custom/mathvista/generated_mathvista_FQA_MWP_test.json
+# input_file: /home/jncsnlp4/SSD2/ZJJ/VReST/data/Custom/mathvista/generated_mathvista_FQA_GPS.json
+# input_file: /home/jncsnlp4/SSD2/ZJJ/VReST/data/Custom/mathvista/generated_mathvista_VQA.json
+# input_file: /home/jncsnlp4/SSD2/ZJJ/VReST/data/Custom/mathvista/generated_mathvista_MWP_test.json
+
+score_label: llm_score # rule_score,llm_score
+desc: "mathvista中MWP测试集" # change3

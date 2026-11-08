@@ -1,0 +1,17 @@
+name: Qwen3-VL-8B-Instruct
+text_only: false
+path : /home/jncsnlp4/SSD2/model/Qwen3-VL-8B-Instruct
+# max_input_len: 16384
+max_input_len: 4080 # 4080
+max_output_len: 648 # 648
+max_num_seqs: 16 # 16
+max_num_batched_tokens: 512
+temperature: 0.7
+top_p: 0.95
+gpu_memory_utilization: 0.95
+repetition_penalty: 1.05
+call_method: local
+base_url: [http://localhost:8000/v1]
+api_key: EMPTY
+seed: 42
+

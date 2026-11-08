@@ -14,34 +14,37 @@ class Answer(BaseModel):
 
 def qa_forward(query, img_path, model):
     # 打开本地图片
-    with open(img_path, "rb") as image_file:
-        image_data = image_file.read()
-    # 将图片数据转换为 base64 编码
-    image_base64 = base64.b64encode(image_data).decode('utf-8')
-    # 构建 data URL
-    image_url = f"data:image/jpeg;base64,{image_base64}"
-
+    # with open(img_path, "rb") as image_file:
+    #     image_data = image_file.read()
+    # # 将图片数据转换为 base64 编码
+    # image_base64 = base64.b64encode(image_data).decode('utf-8')
+    # # 构建 data URL
+    # image_url = f"data:image/jpeg;base64,{image_base64}"
+    
+    image_url = img_path
+    
     messages=[
         {"role": "system", "content": system_prompt},
+        
         {
-            "role": "user",
-            "content": [
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": image_url
-                    },
-                },
-                {"type": "text", "text": query},
-            ],
+        "role": "user",
+        "content": [
+            {
+                "type": "image_url",
+                "image_url": image_url,
+            },
+            {"type": "text", "text": query},
+        ],
         },
     ]
 
     for attempt in range(3):
         try:
             response = model.get_response(messages=messages, json_format=Answer)
-            response = response["response"]
-            answer = json.loads(response)["final_answer"]
+            # response = response["response"]
+            answer = response["response"][0].strip().split("answer is")[-1].strip(". , \n")
+            # print(answer)
+            # answer = json.loads(response)["final_answer"]
             res = {
                 "response": answer
             }

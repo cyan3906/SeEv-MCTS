@@ -1,0 +1,27 @@
+name: mctsv8v2  # 没有使用json模式，让模型尽可能生成json模型，然后使用规则方法提取
+
+file_introduction: "节点类型为子问题分解 回答的时候用step by step思考"
+decompose_question_num: 8
+attempt_num: 3
+return_num: 10 # 投票的数量
+tree_width: 5
+mcts_rollouts: 10 # 10 14
+data_id: -1
+
+ost_step_go: True # True False
+ost_step_num: 8
+
+answer_verify: 2 # 0->啥也没用 1->单向验证 2->双向验证
+direct_reward_weight: 0.3
+double_reward_weight: 0.7
+
+fewshot_ost_config: "/home/jncsnlp4/SSD2/ZJJ/VReST/prompt_methods/ours1/fewshot_ost_config.json"
+
+fewshot_ost_prompt : "/home/jncsnlp4/SSD2/ZJJ/VReST/prompt_methods/ours1/fewshot_ost_prompt.txt"
+
+fewshot_cot_config: "/home/jncsnlp4/SSD2/ZJJ/VReST/prompt_methods/ours1/fewshot_cot_config.json"
+
+fewshot_cot_prompt : "/home/jncsnlp4/SSD2/ZJJ/VReST/prompt_methods/ours1/fewshot_cot_prompt.txt"
+
+
+

@@ -7,6 +7,11 @@ from data.CharXiv.src.get_stats import get_reasoning_scores, get_stats
 def scoring_charxiv(cfg):
     data_cfg = cfg.data
 
+    # 导入的数据集 为了获取正确的答案
+    data_file = os.path.join(data_cfg.data_dir, f'reasoning_{data_cfg.split}.json')
+    with open(data_file, 'r') as f:
+        data = json.load(f)
+        
     extract_file = os.path.join(cfg.extract_result_dir, f'scores-{data_cfg.mode}_{data_cfg.split}.json')
     
     image_meta = json.load(open(os.path.join(data_cfg.data_dir, f'image_metadata_{data_cfg.split}.json')))
@@ -22,7 +27,9 @@ def scoring_charxiv(cfg):
             if data_cfg.score_label == "llm_score":
                 reasoning_scores[k]["score"] = 1 if v[data_cfg.score_label] else 0
             else:
-                reasoning_scores[k]["score"] = 1 if v["ground_truth"] == v["extracted_answer"] else 0
+                # reasoning_scores[k]["score"] = 1 if v["ground_truth"] == v["extracted_answer"] else 0
+                reasoning_scores[k]["score"] = 1 if data[k]["answer"] == v["extracted_answer"] else 0
+                
         reasoning_stats = get_reasoning_scores(reasoning_scores, descriptive_meta, 
                                                reasoning_meta, image_meta)
         reasoning_stats = get_stats(reasoning_stats)
@@ -53,6 +60,8 @@ def scoring_mathvista(cfg):
     print("\nEvaluating the predictions...")
     update_json_flag = False
     for pid in full_pids:
+        if "extracted_answer" not in results[pid]:
+            continue
         problem = results[pid]
         # print(problem)
 
@@ -101,6 +110,8 @@ def scoring_mathvista(cfg):
     total = len(full_pids)
     correct = 0
     for pid in full_pids:
+        if "true_false" not in results[pid]:
+            continue
         if results[pid]['true_false']:
             correct += 1
     accuracy = str(round(correct / total * 100, 2))
@@ -133,7 +144,22 @@ def scoring_mathvision(cfg):
 
     results_dict = {}
     for line in tqdm(results, desc='math_level_subject_acc'):
+        ok = True
+        
+        
+        # if line in ['131', '357', '893', '1399', '2955', '2984', '3033']:
+        #     ok = False
+        
+        if line in ["2955","2984"]:
+            ok = False
+        
+        
+        
+        
         line = results[line]
+        if "rule_score" not in line or "llm_score" not in line:
+            continue
+        
         correct = line[data_cfg.score_label]
         subject = line['subject']
         level = line['level']
@@ -146,9 +172,9 @@ def scoring_mathvision(cfg):
             ]:
             if key not in results_dict:
                 results_dict[key] = [0,0]
-            results_dict[key][0] += 1 if correct else 0
+            
+            results_dict[key][0] += 1 if correct and ok else 0
             results_dict[key][1] += 1
-
 
     for key in results_dict.keys():
         if results_dict[key][1] == 0:
@@ -164,11 +190,11 @@ def scoring_mathvision(cfg):
     print("\nDone!")
 
 def scoring(cfg):
-    if cfg.data.name == "charxiv":
+    if cfg.data.name == "charxiv" or cfg.data.name == "custom_charxiv":
         scoring_charxiv(cfg)
-    elif cfg.data.name == "mathvista":
+    elif cfg.data.name == "mathvista" or cfg.data.name == "custom_mathvista":
         scoring_mathvista(cfg)
-    elif cfg.data.name == "mathvision":
+    elif cfg.data.name == "mathvision" or cfg.data.name == "custom_mathvision":
         scoring_mathvision(cfg)
     else:
         raise ValueError("Dataset not supported")

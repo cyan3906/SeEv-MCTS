@@ -1,0 +1,12 @@
+name: qwen2
+path: /home/jncsnlp4/SSD2/model/Qwen2-7b-Instruct 
+# /home/jncsnlp4/SSD2/model/Qwen2.5-7b-Instruct
+# /home/jncsnlp4/SSD2/model/Qwen2-7b-Instruct 
+n: 10
+temperature: 0.7
+top_p: 0.95
+max_input_len: 4096
+max_output_len: 713
+call_method: local
+base_url: [http://localhost:8001/v1]
+api_key: EMPTY

@@ -1,0 +1,7 @@
+name: charxiv
+path: data/Test/CharXiv
+data_dir: data/Test/CharXiv/data
+image_dir: data/Test/CharXiv/images
+mode: reasoning
+split: val
+score_label: rule_score

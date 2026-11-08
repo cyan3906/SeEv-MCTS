@@ -1,0 +1,1277 @@
+{
+    "6": {
+        "extracted_answer": "6cm",
+        "answer": "6cm",
+        "llm_score": true
+    },
+    "10": {
+        "extracted_answer": "E",
+        "answer": "E",
+        "llm_score": true
+    },
+    "12": {
+        "extracted_answer": "Yes",
+        "answer": "Yes",
+        "llm_score": true
+    },
+    "15": {
+        "extracted_answer": "Common water flea",
+        "answer": "Common water flea",
+        "llm_score": true
+    },
+    "18": {
+        "extracted_answer": "Does Linda's snowboard slide down a hill in less time when it has a layer of wax or when it does not have a layer of wax?",
+        "answer": "Does Linda's snowboard slide down a hill in less time when it has a layer of wax or when it does not have a layer of wax?",
+        "llm_score": true
+    },
+    "20": {
+        "extracted_answer": "No",
+        "answer": "No",
+        "llm_score": true
+    },
+    "24": {
+        "extracted_answer": "no",
+        "answer": "no",
+        "llm_score": true
+    },
+    "26": {
+        "extracted_answer": "no",
+        "answer": "no",
+        "llm_score": true
+    },
+    "33": {
+        "extracted_answer": "4π cm",
+        "answer": "4πcm",
+        "llm_score": true
+    },
+    "43": {
+        "extracted_answer": "May",
+        "answer": "May",
+        "llm_score": true
+    },
+    "46": {
+        "extracted_answer": "Adults spider population would decrease",
+        "answer": "Adults spider population would decrease",
+        "llm_score": true
+    },
+    "51": {
+        "extracted_answer": "Yes",
+        "answer": "Yes",
+        "llm_score": true
+    },
+    "55": {
+        "extracted_answer": "30°",
+        "answer": "30°",
+        "llm_score": true
+    },
+    "58": {
+        "extracted_answer": "yes",
+        "answer": "yes",
+        "llm_score": true
+    },
+    "61": {
+        "extracted_answer": "no",
+        "answer": "no",
+        "llm_score": true
+    },
+    "65": {
+        "extracted_answer": "Yes",
+        "answer": "Yes",
+        "llm_score": true
+    },
+    "75": {
+        "extracted_answer": "no",
+        "answer": "no",
+        "llm_score": true
+    },
+    "76": {
+        "extracted_answer": "decrease",
+        "answer": "decrease",
+        "llm_score": true
+    },
+    "79": {
+        "extracted_answer": "60°",
+        "answer": "60°",
+        "llm_score": true
+    },
+    "80": {
+        "extracted_answer": "Crabs and limpets will decrease",
+        "answer": "Crabs and limpets will decrease",
+        "llm_score": true
+    },
+    "83": {
+        "extracted_answer": "Yes",
+        "answer": "Yes",
+        "llm_score": true
+    },
+    "91": {
+        "extracted_answer": "B (No)",
+        "answer": "No",
+        "llm_score": true
+    },
+    "92": {
+        "extracted_answer": "No",
+        "answer": "No",
+        "llm_score": true
+    },
+    "101": {
+        "extracted_answer": "Linear",
+        "answer": "Linear",
+        "llm_score": true
+    },
+    "105": {
+        "extracted_answer": "Yes",
+        "answer": "yes",
+        "llm_score": true
+    },
+    "106": {
+        "extracted_answer": "null",
+        "answer": "0",
+        "llm_score": true
+    },
+    "110": {
+        "extracted_answer": "No",
+        "answer": "No",
+        "llm_score": true
+    },
+    "112": {
+        "extracted_answer": "No",
+        "answer": "No",
+        "llm_score": true
+    },
+    "116": {
+        "extracted_answer": "acuminate",
+        "answer": "Acuminate",
+        "llm_score": true
+    },
+    "117": {
+        "extracted_answer": "[0, 2]",
+        "answer": "[0, 2]",
+        "llm_score": true
+    },
+    "124": {
+        "extracted_answer": "Whorled",
+        "answer": "Whorled",
+        "llm_score": true
+    },
+    "134": {
+        "extracted_answer": "which design would have the greatest distance between the concert area and the road",
+        "answer": "which design would have the greatest distance between the concert area and the road",
+        "llm_score": true
+    },
+    "135": {
+        "extracted_answer": "Yes",
+        "answer": "Yes",
+        "llm_score": true
+    },
+    "138": {
+        "extracted_answer": "Yes",
+        "answer": "Yes",
+        "llm_score": true
+    },
+    "141": {
+        "extracted_answer": "4.40米",
+        "answer": "4.40米",
+        "llm_score": true
+    },
+    "147": {
+        "extracted_answer": "sample B",
+        "answer": "sample B",
+        "llm_score": true
+    },
+    "149": {
+        "extracted_answer": "55°",
+        "answer": "55°",
+        "llm_score": true
+    },
+    "150": {
+        "extracted_answer": "40°",
+        "answer": "40°",
+        "llm_score": true
+    },
+    "152": {
+        "extracted_answer": "44°",
+        "answer": "44°",
+        "llm_score": true
+    },
+    "153": {
+        "extracted_answer": "mice",
+        "answer": "mice",
+        "llm_score": true
+    },
+    "154": {
+        "extracted_answer": "No",
+        "answer": "No",
+        "llm_score": true
+    },
+    "155": {
+        "extracted_answer": "Yes",
+        "answer": "yes",
+        "llm_score": true
+    },
+    "166": {
+        "extracted_answer": "B",
+        "answer": "B",
+        "llm_score": true
+    },
+    "170": {
+        "extracted_answer": "smaller than",
+        "answer": "smaller than",
+        "llm_score": true
+    },
+    "172": {
+        "extracted_answer": "No",
+        "answer": "no",
+        "llm_score": true
+    },
+    "173": {
+        "extracted_answer": "No",
+        "answer": "No",
+        "llm_score": true
+    },
+    "174": {
+        "extracted_answer": "Yes",
+        "answer": "Yes",
+        "llm_score": true
+    },
+    "177": {
+        "extracted_answer": "Yes",
+        "answer": "Yes",
+        "llm_score": true
+    },
+    "181": {
+        "extracted_answer": "C",
+        "answer": "C",
+        "llm_score": true
+    },
+    "185": {
+        "extracted_answer": "False",
+        "answer": "False",
+        "llm_score": true
+    },
+    "195": {
+        "extracted_answer": "130°",
+        "answer": "130°",
+        "llm_score": true
+    },
+    "200": {
+        "extracted_answer": "yes",
+        "answer": "yes",
+        "llm_score": true
+    },
+    "212": {
+        "extracted_answer": "yes",
+        "answer": "yes",
+        "llm_score": true
+    },
+    "220": {
+        "extracted_answer": "125°",
+        "answer": "125°",
+        "llm_score": true
+    },
+    "223": {
+        "extracted_answer": "Yes",
+        "answer": "Yes",
+        "llm_score": true
+    },
+    "229": {
+        "extracted_answer": "0.30%",
+        "answer": "0.30%",
+        "llm_score": true
+    },
+    "231": {
+        "extracted_answer": "Soft",
+        "answer": "Soft",
+        "llm_score": true
+    },
+    "232": {
+        "extracted_answer": "Solution B",
+        "answer": "Solution B",
+        "llm_score": true
+    },
+    "235": {
+        "extracted_answer": "Yes",
+        "answer": "Yes",
+        "llm_score": true
+    },
+    "237": {
+        "extracted_answer": "it would decrease",
+        "answer": "it would decrease",
+        "llm_score": true
+    },
+    "238": {
+        "extracted_answer": "\\frac { 20 } { 3 }",
+        "answer": "\\frac { 20 } { 3 }",
+        "llm_score": true
+    },
+    "239": {
+        "extracted_answer": "yes",
+        "answer": "yes",
+        "llm_score": true
+    },
+    "244": {
+        "extracted_answer": "no",
+        "answer": "no",
+        "llm_score": true
+    },
+    "254": {
+        "extracted_answer": "Yes",
+        "answer": "Yes",
+        "llm_score": true
+    },
+    "267": {
+        "extracted_answer": "Serrulate",
+        "answer": "Serrulate",
+        "llm_score": true
+    },
+    "269": {
+        "extracted_answer": "160√{3}m",
+        "answer": "160√{3}m",
+        "llm_score": true
+    },
+    "275": {
+        "extracted_answer": "\\(\\frac{3\\sqrt{5}}{2}\\) units",
+        "answer": "\\frac{3√{5}}{2}",
+        "llm_score": true
+    },
+    "279": {
+        "extracted_answer": "grass",
+        "answer": "grass",
+        "llm_score": true
+    },
+    "281": {
+        "extracted_answer": "No",
+        "answer": "No",
+        "llm_score": true
+    },
+    "285": {
+        "extracted_answer": "25°",
+        "answer": "25°",
+        "llm_score": true
+    },
+    "287": {
+        "extracted_answer": "R2",
+        "answer": "R2",
+        "llm_score": true
+    },
+    "290": {
+        "extracted_answer": "75°",
+        "answer": "75°",
+        "llm_score": true
+    },
+    "291": {
+        "extracted_answer": "May '21",
+        "answer": "May '21",
+        "llm_score": true
+    },
+    "292": {
+        "extracted_answer": "no",
+        "answer": "no",
+        "llm_score": true
+    },
+    "293": {
+        "extracted_answer": "grasses increases",
+        "answer": "grasses increases",
+        "llm_score": true
+    },
+    "296": {
+        "extracted_answer": "equal to",
+        "answer": "equal to",
+        "llm_score": true
+    },
+    "297": {
+        "extracted_answer": "Yes",
+        "answer": "Yes",
+        "llm_score": true
+    },
+    "298": {
+        "extracted_answer": "mountain lion",
+        "answer": "mountain lion",
+        "llm_score": true
+    },
+    "301": {
+        "extracted_answer": "Dynalang",
+        "answer": "Dynalang",
+        "llm_score": true
+    },
+    "302": {
+        "extracted_answer": "a logarithmic function",
+        "answer": "a logarithmic function",
+        "llm_score": true
+    },
+    "303": {
+        "extracted_answer": "no",
+        "answer": "no",
+        "llm_score": true
+    },
+    "306": {
+        "extracted_answer": "Yes",
+        "answer": "Yes",
+        "llm_score": true
+    },
+    "308": {
+        "extracted_answer": "a trigonometric function",
+        "answer": "a trigonometric function",
+        "llm_score": true
+    },
+    "312": {
+        "extracted_answer": "apples",
+        "answer": "apples",
+        "llm_score": true
+    },
+    "314": {
+        "extracted_answer": "no",
+        "answer": "no",
+        "llm_score": true
+    },
+    "316": {
+        "extracted_answer": "50°",
+        "answer": "50°",
+        "llm_score": true
+    },
+    "319": {
+        "extracted_answer": "Yes",
+        "answer": "Yes",
+        "llm_score": true
+    },
+    "322": {
+        "extracted_answer": "40 meters",
+        "answer": "40m",
+        "llm_score": true
+    },
+    "323": {
+        "extracted_answer": "green",
+        "answer": "green",
+        "llm_score": true
+    },
+    "333": {
+        "extracted_answer": "\\frac { 5 } { 12 }",
+        "answer": "\\frac { 5 } { 12 }",
+        "llm_score": true
+    },
+    "339": {
+        "extracted_answer": "55°",
+        "answer": "55°",
+        "llm_score": true
+    },
+    "341": {
+        "extracted_answer": "o'clock",
+        "answer": "o'clock",
+        "llm_score": true
+    },
+    "344": {
+        "extracted_answer": "Yes",
+        "answer": "Yes",
+        "llm_score": true
+    },
+    "347": {
+        "extracted_answer": "No",
+        "answer": "No",
+        "llm_score": true
+    },
+    "348": {
+        "extracted_answer": "Yes",
+        "answer": "Yes",
+        "llm_score": true
+    },
+    "349": {
+        "extracted_answer": "Rec",
+        "answer": "Rec",
+        "llm_score": true
+    },
+    "355": {
+        "extracted_answer": "130°",
+        "answer": "130°",
+        "llm_score": true
+    },
+    "357": {
+        "extracted_answer": "no",
+        "answer": "no",
+        "llm_score": true
+    },
+    "358": {
+        "extracted_answer": "A",
+        "answer": "A",
+        "llm_score": true
+    },
+    "364": {
+        "extracted_answer": "40°",
+        "answer": "40°",
+        "llm_score": true
+    },
+    "370": {
+        "extracted_answer": "decrease",
+        "answer": "decrease",
+        "llm_score": true
+    },
+    "377": {
+        "extracted_answer": "no",
+        "answer": "no",
+        "llm_score": true
+    },
+    "379": {
+        "extracted_answer": "horses",
+        "answer": "horses",
+        "llm_score": true
+    },
+    "381": {
+        "extracted_answer": "Yes",
+        "answer": "Yes",
+        "llm_score": true
+    },
+    "385": {
+        "extracted_answer": "yes",
+        "answer": "yes",
+        "llm_score": true
+    },
+    "386": {
+        "extracted_answer": "10 \\sqrt { 3 }",
+        "answer": "10 \\sqrt { 3 }",
+        "llm_score": true
+    },
+    "389": {
+        "extracted_answer": "shortage",
+        "answer": "shortage",
+        "llm_score": true
+    },
+    "390": {
+        "extracted_answer": "Yes",
+        "answer": "Yes",
+        "llm_score": true
+    },
+    "394": {
+        "extracted_answer": "LangRoom",
+        "answer": "LangRoom",
+        "llm_score": true
+    },
+    "396": {
+        "extracted_answer": "decrease",
+        "answer": "decrease",
+        "llm_score": true
+    },
+    "402": {
+        "extracted_answer": "Frogs",
+        "answer": "Frogs",
+        "llm_score": true
+    },
+    "404": {
+        "extracted_answer": "children's class",
+        "answer": "children's class",
+        "llm_score": true
+    },
+    "412": {
+        "extracted_answer": "no",
+        "answer": "no",
+        "llm_score": true
+    },
+    "418": {
+        "extracted_answer": "decrease",
+        "answer": "decrease",
+        "llm_score": true
+    },
+    "423": {
+        "extracted_answer": "no",
+        "answer": "no",
+        "llm_score": true
+    },
+    "424": {
+        "extracted_answer": "Yes",
+        "answer": "Yes",
+        "llm_score": true
+    },
+    "430": {
+        "extracted_answer": "smaller than",
+        "answer": "smaller than",
+        "llm_score": true
+    },
+    "431": {
+        "extracted_answer": "decrease",
+        "answer": "decrease",
+        "llm_score": true
+    },
+    "440": {
+        "extracted_answer": "No",
+        "answer": "No",
+        "llm_score": true
+    },
+    "445": {
+        "extracted_answer": "yes",
+        "answer": "yes",
+        "llm_score": true
+    },
+    "447": {
+        "extracted_answer": "no",
+        "answer": "no",
+        "llm_score": true
+    },
+    "450": {
+        "extracted_answer": "grasshoppers",
+        "answer": "grasshoppers",
+        "llm_score": true
+    },
+    "456": {
+        "extracted_answer": "yes",
+        "answer": "yes",
+        "llm_score": true
+    },
+    "460": {
+        "extracted_answer": "Crickets",
+        "answer": "Crickets",
+        "llm_score": true
+    },
+    "465": {
+        "extracted_answer": "yes",
+        "answer": "yes",
+        "llm_score": true
+    },
+    "466": {
+        "extracted_answer": "no",
+        "answer": "no",
+        "llm_score": true
+    },
+    "469": {
+        "extracted_answer": "yes",
+        "answer": "yes",
+        "llm_score": true
+    },
+    "470": {
+        "extracted_answer": "PDE-Refiner",
+        "answer": "PDE-Refiner",
+        "llm_score": true
+    },
+    "480": {
+        "extracted_answer": "No",
+        "answer": "No",
+        "llm_score": true
+    },
+    "485": {
+        "extracted_answer": "10°",
+        "answer": "10°",
+        "llm_score": true
+    },
+    "487": {
+        "extracted_answer": "Yes",
+        "answer": "Yes",
+        "llm_score": true
+    },
+    "490": {
+        "extracted_answer": "50°",
+        "answer": "50°",
+        "llm_score": true
+    },
+    "491": {
+        "extracted_answer": "no",
+        "answer": "no",
+        "llm_score": true
+    },
+    "493": {
+        "extracted_answer": "No",
+        "answer": "No",
+        "llm_score": true
+    },
+    "506": {
+        "extracted_answer": "[2014, 2016]",
+        "answer": "[2014, 2016]",
+        "llm_score": true
+    },
+    "507": {
+        "extracted_answer": "garter snakes would decrease",
+        "answer": "garter snakes would decrease",
+        "llm_score": true
+    },
+    "509": {
+        "extracted_answer": "yes",
+        "answer": "yes",
+        "llm_score": true
+    },
+    "515": {
+        "extracted_answer": "kril",
+        "answer": "kril",
+        "llm_score": true
+    },
+    "520": {
+        "extracted_answer": "Yes",
+        "answer": "yes",
+        "llm_score": true
+    },
+    "526": {
+        "extracted_answer": "slide",
+        "answer": "slide",
+        "llm_score": true
+    },
+    "527": {
+        "extracted_answer": "Yes",
+        "answer": "Yes",
+        "llm_score": true
+    },
+    "528": {
+        "extracted_answer": "55°",
+        "answer": "55°",
+        "llm_score": true
+    },
+    "536": {
+        "extracted_answer": "70°",
+        "answer": "70°",
+        "llm_score": true
+    },
+    "537": {
+        "extracted_answer": "No",
+        "answer": "No",
+        "llm_score": true
+    },
+    "538": {
+        "extracted_answer": "9π",
+        "answer": "9π",
+        "llm_score": true
+    },
+    "545": {
+        "extracted_answer": "Yes, it is.",
+        "answer": "yes",
+        "llm_score": true
+    },
+    "548": {
+        "extracted_answer": "Yes",
+        "answer": "Yes",
+        "llm_score": true
+    },
+    "553": {
+        "extracted_answer": "no",
+        "answer": "no",
+        "llm_score": true
+    },
+    "554": {
+        "extracted_answer": "yes",
+        "answer": "yes",
+        "llm_score": true
+    },
+    "555": {
+        "extracted_answer": "No",
+        "answer": "No",
+        "llm_score": true
+    },
+    "556": {
+        "extracted_answer": "Yes",
+        "answer": "Yes",
+        "llm_score": true
+    },
+    "560": {
+        "extracted_answer": "yes",
+        "answer": "yes",
+        "llm_score": true
+    },
+    "561": {
+        "extracted_answer": "No",
+        "answer": "No",
+        "llm_score": true
+    },
+    "565": {
+        "extracted_answer": "Soft MoE",
+        "answer": "Soft MoE",
+        "llm_score": true
+    },
+    "566": {
+        "extracted_answer": "26°",
+        "answer": "26°",
+        "llm_score": true
+    },
+    "571": {
+        "extracted_answer": "no",
+        "answer": "no",
+        "llm_score": true
+    },
+    "582": {
+        "extracted_answer": "yes",
+        "answer": "yes",
+        "llm_score": true
+    },
+    "584": {
+        "extracted_answer": "Connor",
+        "answer": "Connor",
+        "llm_score": true
+    },
+    "587": {
+        "extracted_answer": "20√2 nautical miles",
+        "answer": "20√{2}海里",
+        "llm_score": true
+    },
+    "595": {
+        "extracted_answer": "yes",
+        "answer": "yes",
+        "llm_score": true
+    },
+    "598": {
+        "extracted_answer": "iiki",
+        "answer": "iiki",
+        "llm_score": true
+    },
+    "608": {
+        "extracted_answer": "No",
+        "answer": "No",
+        "llm_score": true
+    },
+    "618": {
+        "extracted_answer": "no",
+        "answer": "no",
+        "llm_score": true
+    },
+    "623": {
+        "extracted_answer": "o'clock",
+        "answer": "o'clock",
+        "llm_score": true
+    },
+    "625": {
+        "extracted_answer": "Yes",
+        "answer": "Yes",
+        "llm_score": true
+    },
+    "634": {
+        "extracted_answer": "145°",
+        "answer": "145°",
+        "llm_score": true
+    },
+    "637": {
+        "extracted_answer": "120°",
+        "answer": "120°",
+        "llm_score": true
+    },
+    "640": {
+        "extracted_answer": "\\frac { 5 } { 3 } \\pi",
+        "answer": "\\frac { 5 } { 3 } \\pi",
+        "llm_score": true
+    },
+    "647": {
+        "extracted_answer": "B",
+        "answer": "B",
+        "llm_score": true
+    },
+    "653": {
+        "extracted_answer": "Yes",
+        "answer": "Yes",
+        "llm_score": true
+    },
+    "654": {
+        "extracted_answer": "No",
+        "answer": "No",
+        "llm_score": true
+    },
+    "655": {
+        "extracted_answer": "Yes",
+        "answer": "Yes",
+        "llm_score": true
+    },
+    "656": {
+        "extracted_answer": "yes",
+        "answer": "yes",
+        "llm_score": true
+    },
+    "660": {
+        "extracted_answer": "No",
+        "answer": "No",
+        "llm_score": true
+    },
+    "661": {
+        "extracted_answer": "a trigonometric function",
+        "answer": "a trigonometric function",
+        "llm_score": true
+    },
+    "670": {
+        "extracted_answer": "04/02/2005",
+        "answer": "04/02/2005",
+        "llm_score": true
+    },
+    "677": {
+        "extracted_answer": "No",
+        "answer": "No",
+        "llm_score": true
+    },
+    "682": {
+        "extracted_answer": "decrease",
+        "answer": "decrease",
+        "llm_score": true
+    },
+    "685": {
+        "extracted_answer": "increase",
+        "answer": "increase",
+        "llm_score": true
+    },
+    "686": {
+        "extracted_answer": "No",
+        "answer": "No",
+        "llm_score": true
+    },
+    "687": {
+        "extracted_answer": "increase in phytoplankton",
+        "answer": "increase in phytoplankton",
+        "llm_score": true
+    },
+    "688": {
+        "extracted_answer": "0-5",
+        "answer": "0-5",
+        "llm_score": true
+    },
+    "689": {
+        "extracted_answer": "Yes",
+        "answer": "Yes",
+        "llm_score": true
+    },
+    "690": {
+        "extracted_answer": "d + e = f + j",
+        "answer": "d + e = f + j",
+        "llm_score": true
+    },
+    "695": {
+        "extracted_answer": "yes",
+        "answer": "yes",
+        "llm_score": true
+    },
+    "696": {
+        "extracted_answer": "no",
+        "answer": "no",
+        "llm_score": true
+    },
+    "707": {
+        "extracted_answer": "120°",
+        "answer": "120°",
+        "llm_score": true
+    },
+    "716": {
+        "extracted_answer": "16 \\sqrt { 5 }",
+        "answer": "16 \\sqrt { 5 }",
+        "llm_score": true
+    },
+    "722": {
+        "extracted_answer": "yes",
+        "answer": "yes",
+        "llm_score": true
+    },
+    "724": {
+        "extracted_answer": "yes",
+        "answer": "yes",
+        "llm_score": true
+    },
+    "732": {
+        "extracted_answer": "Grasshopper",
+        "answer": "Grasshopper",
+        "llm_score": true
+    },
+    "735": {
+        "extracted_answer": "No",
+        "answer": "No",
+        "llm_score": true
+    },
+    "736": {
+        "extracted_answer": "32°",
+        "answer": "32°",
+        "llm_score": true
+    },
+    "748": {
+        "extracted_answer": "65°",
+        "answer": "65°",
+        "llm_score": true
+    },
+    "751": {
+        "extracted_answer": "Seahorses would decrease",
+        "answer": "Seahorses would decrease",
+        "llm_score": true
+    },
+    "754": {
+        "extracted_answer": "Population will decrease",
+        "answer": "Population will decrease",
+        "llm_score": true
+    },
+    "755": {
+        "extracted_answer": "a polynomial",
+        "answer": "a polynomial",
+        "llm_score": true
+    },
+    "756": {
+        "extracted_answer": "decrease",
+        "answer": "decrease",
+        "llm_score": true
+    },
+    "760": {
+        "extracted_answer": "Yes",
+        "answer": "Yes",
+        "llm_score": true
+    },
+    "761": {
+        "extracted_answer": "Increase",
+        "answer": "Increase",
+        "llm_score": true
+    },
+    "765": {
+        "extracted_answer": "no",
+        "answer": "no",
+        "llm_score": true
+    },
+    "768": {
+        "extracted_answer": "July and August",
+        "answer": "July and August",
+        "llm_score": true
+    },
+    "771": {
+        "extracted_answer": "decrease",
+        "answer": "decrease",
+        "llm_score": true
+    },
+    "772": {
+        "extracted_answer": "Yes",
+        "answer": "Yes",
+        "llm_score": true
+    },
+    "778": {
+        "extracted_answer": "A",
+        "answer": "A",
+        "llm_score": true
+    },
+    "779": {
+        "extracted_answer": "Yes",
+        "answer": "Yes",
+        "llm_score": true
+    },
+    "783": {
+        "extracted_answer": "30√{3}m",
+        "answer": "30√{3}m",
+        "llm_score": true
+    },
+    "785": {
+        "extracted_answer": "The number of aquatic crustaceans will decrease",
+        "answer": "The number of aquatic crustaceans will decrease",
+        "llm_score": true
+    },
+    "800": {
+        "extracted_answer": "no",
+        "answer": "no",
+        "llm_score": true
+    },
+    "805": {
+        "extracted_answer": "No",
+        "answer": "No",
+        "llm_score": true
+    },
+    "817": {
+        "extracted_answer": "25°",
+        "answer": "25°",
+        "llm_score": true
+    },
+    "821": {
+        "extracted_answer": "Yes",
+        "answer": "Yes",
+        "llm_score": true
+    },
+    "823": {
+        "extracted_answer": "The population of tuna will increase",
+        "answer": "The population of tuna will increase",
+        "llm_score": true
+    },
+    "826": {
+        "extracted_answer": "Superior lobes",
+        "answer": "Superior lobes",
+        "llm_score": true
+    },
+    "834": {
+        "extracted_answer": "Yes",
+        "answer": "Yes",
+        "llm_score": true
+    },
+    "837": {
+        "extracted_answer": "No",
+        "answer": "No",
+        "llm_score": true
+    },
+    "840": {
+        "extracted_answer": "salami",
+        "answer": "salami",
+        "llm_score": true
+    },
+    "842": {
+        "extracted_answer": "(A) $\\frac{4}{5}$",
+        "answer": "\\frac{4}{5}",
+        "llm_score": true
+    },
+    "843": {
+        "extracted_answer": "no",
+        "answer": "no",
+        "llm_score": true
+    },
+    "844": {
+        "extracted_answer": "No",
+        "answer": "No",
+        "llm_score": true
+    },
+    "846": {
+        "extracted_answer": "yes",
+        "answer": "yes",
+        "llm_score": true
+    },
+    "847": {
+        "extracted_answer": "red",
+        "answer": "red",
+        "llm_score": true
+    },
+    "850": {
+        "extracted_answer": "Yes",
+        "answer": "Yes",
+        "llm_score": true
+    },
+    "854": {
+        "extracted_answer": "Fish",
+        "answer": "Fish",
+        "llm_score": true
+    },
+    "856": {
+        "extracted_answer": "Simple",
+        "answer": "Simple",
+        "llm_score": true
+    },
+    "861": {
+        "extracted_answer": "no",
+        "answer": "no",
+        "llm_score": true
+    },
+    "865": {
+        "extracted_answer": "yes",
+        "answer": "yes",
+        "llm_score": true
+    },
+    "881": {
+        "extracted_answer": "decrease",
+        "answer": "decrease",
+        "llm_score": true
+    },
+    "882": {
+        "extracted_answer": "Yes",
+        "answer": "yes",
+        "llm_score": true
+    },
+    "890": {
+        "extracted_answer": "Sun",
+        "answer": "Sun",
+        "llm_score": true
+    },
+    "892": {
+        "extracted_answer": "No",
+        "answer": "No",
+        "llm_score": true
+    },
+    "895": {
+        "extracted_answer": "MuBERT",
+        "answer": "MuBERT",
+        "llm_score": true
+    },
+    "896": {
+        "extracted_answer": "Around 31%",
+        "answer": "Around 31%",
+        "llm_score": true
+    },
+    "902": {
+        "extracted_answer": "obtuse",
+        "answer": "obtuse",
+        "llm_score": true
+    },
+    "903": {
+        "extracted_answer": "60°",
+        "answer": "60°",
+        "llm_score": true
+    },
+    "906": {
+        "extracted_answer": "No",
+        "answer": "No",
+        "llm_score": true
+    },
+    "913": {
+        "extracted_answer": "yes",
+        "answer": "yes",
+        "llm_score": true
+    },
+    "915": {
+        "extracted_answer": "It would also decrease.",
+        "answer": "It would also decrease.",
+        "llm_score": true
+    },
+    "924": {
+        "extracted_answer": "yes",
+        "answer": "yes",
+        "llm_score": true
+    },
+    "931": {
+        "extracted_answer": "50°",
+        "answer": "50°",
+        "llm_score": true
+    },
+    "932": {
+        "extracted_answer": "decrease",
+        "answer": "decrease",
+        "llm_score": true
+    },
+    "937": {
+        "extracted_answer": "yes",
+        "answer": "yes",
+        "llm_score": true
+    },
+    "939": {
+        "extracted_answer": "octopus",
+        "answer": "octopus",
+        "llm_score": true
+    },
+    "952": {
+        "extracted_answer": "Fish",
+        "answer": "Fish",
+        "llm_score": true
+    },
+    "954": {
+        "extracted_answer": "All of above",
+        "answer": "All of above",
+        "llm_score": true
+    },
+    "955": {
+        "extracted_answer": "36°",
+        "answer": "36°",
+        "llm_score": true
+    },
+    "957": {
+        "extracted_answer": "Yes",
+        "answer": "Yes",
+        "llm_score": true
+    },
+    "969": {
+        "extracted_answer": "yes",
+        "answer": "yes",
+        "llm_score": true
+    },
+    "970": {
+        "extracted_answer": "118°",
+        "answer": "118°",
+        "llm_score": true
+    },
+    "971": {
+        "extracted_answer": "No",
+        "answer": "No",
+        "llm_score": true
+    },
+    "972": {
+        "extracted_answer": "No",
+        "answer": "No",
+        "llm_score": true
+    },
+    "974": {
+        "extracted_answer": "No",
+        "answer": "No",
+        "llm_score": true
+    },
+    "992": {
+        "extracted_answer": "No",
+        "answer": "No",
+        "llm_score": true
+    },
+    "994": {
+        "extracted_answer": "yes",
+        "answer": "yes",
+        "llm_score": true
+    },
+    "997": {
+        "extracted_answer": "No",
+        "answer": "No",
+        "llm_score": true
+    }
+}

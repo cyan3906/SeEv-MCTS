@@ -1,0 +1,30 @@
+name: mctsv8_b
+
+is_kv_cache: True
+
+is_p3: False
+is_p3pro: False
+use_p3pro_for_low_answer: False
+p3pro_question_threshold: 0.8
+p3pro_answer_threshold: 0.8
+
+prune_low_reward_nodes: True
+prune_reward_threshold: 0.8
+
+embedding_batch_size: 32
+embedding_similarity_threshold: 0.9
+
+is_deduplicate: False
+is_deduplicatev2: False
+deduplicate_multiple: 7
+
+attempt_num: 3
+decompose_question_num: 8
+return_num: 10
+tree_width: 5
+reward_prompt_batch_size: 5
+mcts_rollouts: 10
+is_rephrasing_question: False
+
+data_id: -1
+file_introduction: "B: MCTS加双低剪枝"

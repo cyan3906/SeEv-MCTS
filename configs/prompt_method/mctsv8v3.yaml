@@ -1,0 +1,23 @@
+name: mctsv8v3  # 没有使用json模式，让模型尽可能生成json模型，然后使用规则方法提取
+
+file_introduction: "在子问题思考的基础上加入 答案的验证-基础版"
+decompose_question_num: 8
+attempt_num: 3
+return_num: 10 # 投票的数量
+tree_width: 5
+mcts_rollouts: 10 # 10 14
+
+ost_step_go: False # True False
+ost_step_num: 8
+data_id: -1
+
+fewshot_ost_config: "/home/jncsnlp4/SSD2/ZJJ/VReST/prompt_methods/ours1/fewshot_ost_config.json"
+
+fewshot_ost_prompt : "/home/jncsnlp4/SSD2/ZJJ/VReST/prompt_methods/ours1/fewshot_ost_prompt.txt"
+
+fewshot_cot_config: "/home/jncsnlp4/SSD2/ZJJ/VReST/prompt_methods/ours1/fewshot_cot_config.json"
+
+fewshot_cot_prompt : "/home/jncsnlp4/SSD2/ZJJ/VReST/prompt_methods/ours1/fewshot_cot_prompt.txt"
+
+
+

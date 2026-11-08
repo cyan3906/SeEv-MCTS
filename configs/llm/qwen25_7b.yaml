@@ -1,0 +1,14 @@
+name: Qwen2.5-7B-Instruct
+text_only: true
+path: /home/jncsnlp4/SSD2/model/Qwen2.5-7b-Instruct
+max_input_len: 8192
+max_num_seqs: 32
+max_output_len: 1288
+temperature: 0.7
+top_p: 0.95
+repetition_penalty: 1.05
+gpu_memory_utilization: 0.9
+call_method: local
+base_url: [http://localhost:8000/v1]
+api_key: EMPTY
+seed: 42
